@@ -21,7 +21,10 @@ def headers(cookie=None, user_agent=None):
         
 
     return {
-        'hexin-v': get_token(),
+        'accept': 'application/json, text/plain, */*',
+        'content-type': 'application/json',
+        'referer': 'https://www.iwencai.com/screener/result',
         'User-Agent': user_agent,
+        'hexin-v': get_token(),
         'cookie': cookie
     }

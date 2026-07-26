@@ -60,7 +60,7 @@ def get_robot_data(**kwargs):
     def do():
         res = rq.request(
             method='POST',
-            url='http://www.iwencai.com/customized/chart/get-robot-data',
+            url='https://www.iwencai.com/customized/chart/get-robot-data',
             json=data,
             headers=headers(cookie, user_agent),
             **request_params
@@ -105,9 +105,12 @@ def get_page(url_params, **kwargs):
             'page': 1,
             **kwargs
         }
-        target_url = 'http://www.iwencai.com/gateway/urp/v7/landing/getDataList'
+        # 构建带参数的 URL（getDataList 需要 GET 请求）
+        from urllib.parse import urlencode
+        encoded_data = urlencode(data, safe='[]')
+        target_url = f'https://www.iwencai.com/gateway/urp/v7/landing/getDataList?{encoded_data}'
         if pro:
-            target_url = f'{target_url}?iwcpro=1'
+            target_url = f'{target_url}&iwcpro=1'
         path = 'answer.components.0.data.datas'
     else:
         if isinstance(find, List):
@@ -121,27 +124,39 @@ def get_page(url_params, **kwargs):
             'question': find,
             **kwargs
         }
-        target_url = 'http://www.iwencai.com/unifiedwap/unified-wap/v2/stock-pick/find'
+        target_url = 'https://www.iwencai.com/unifiedwap/unified-wap/v2/stock-pick/find'
         path = 'data.data.datas'
     
-    log and logger.info(f'第{data.get("page")}页开始')
+    page_num = data.get('page', 1)
+    log and logger.info(f'第{page_num}页开始')
 
     def do():
-        res = rq.request(
-            method='POST',
-            url=target_url,
-            data=data,
-            headers=headers(cookie, user_agent),
-            timeout=(5, 10),
-            **request_params
-        )
+        if find is None:
+            # getDataList 使用 GET 请求
+            res = rq.request(
+                method='GET',
+                url=target_url,
+                headers=headers(cookie, user_agent),
+                timeout=(5, 10),
+                **request_params
+            )
+        else:
+            # find 端点使用 POST 请求
+            res = rq.request(
+                method='POST',
+                url=target_url,
+                data=data,
+                headers=headers(cookie, user_agent),
+                timeout=(5, 10),
+                **request_params
+            )
         result_do = json.loads(res.text)
         data_list = _.get(result_do, path)
 
-        if len(data_list) == 0:
-            log and logger.error(f'第{data.get("page")}页返回空！')
+        if data_list is None or len(data_list) == 0:
+            log and logger.error(f'第{page_num}页返回空！')
             raise Exception("data_list is empty!")
-        log and logger.info(f'第{data.get("page")}页成功')
+        log and logger.info(f'第{page_num}页成功')
         return pd.DataFrame.from_dict(data_list)
     
     result = while_do(do, retry, sleep, log)
