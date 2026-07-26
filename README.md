@@ -1,6 +1,3 @@
-[![PyPI version](https://badge.fury.io/py/pywencai.svg)](https://badge.fury.io/py/pywencai)
-[![Downloads](https://static.pepy.tech/badge/pywencai/month)](https://pepy.tech/project/pywencai)
-
 # pywencai
 
 获取同花顺问财数据
@@ -23,10 +20,14 @@
 
 ## 安装
 
+```bash
+pip install git+https://github.com/raidery/pywencai.git
 ```
-pip install pywencai
+
+或者安装特定版本：
+```bash
+pip install git+https://github.com/raidery/pywencai.git@v0.15.0
 ```
-> 由于问财接口策略经常发生变化，请安装最新版本使用，遇到问题时，优先尝试升级解决
 
 ## 视频教程
 
