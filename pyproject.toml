@@ -23,6 +23,9 @@ dev = [
     "autopep8>=2.0.2,<3.0.0",
     "types-requests>=2.30.0.0,<3.0.0.0",
 ]
+playwright = [
+    "playwright>=1.40.0",
+]
 
 [build-system]
 requires = ["hatchling"]

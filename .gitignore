@@ -133,3 +133,6 @@ package-lock.json
 node_modules
 test.ipynb
 uv.lock
+# 敏感文件
+cookie.txt
+hexin_v.txt

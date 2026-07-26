@@ -1,0 +1,1781 @@
+{
+  "datas": [
+    {
+      "10日均线上移(条件说明)[20260724]": "2026年07月24日10日线均线上移",
+      "code": "605028",
+      "买入信号inter[20260724]": "周线boll突破中轨||周线dmi金叉||月线rsi底背离",
+      "最新价": "27.2",
+      "a股市值(不含限售股)[20260724]": 4352000000,
+      "10日均线[20260724]": "23.831",
+      "{(}行情收盘价[20260724]{-}10日均线[20260724]{)}": 3.3689999999999998,
+      "振幅[20260724]": "12.490421",
+      "换手率[20260724]": "5.975156",
+      "5日均线[20260724]": "24.654",
+      "{(}行情收盘价[20260724]{-}5日均线[20260724]{)}": 2.5459999999999994,
+      "股票简称": "世茂能源",
+      "均价线[20260724]": "26.821",
+      "技术形态[20260724]": "阳线||放量||价升量缩",
+      "开盘价:前复权[20260724]": "24.69",
+      "行情收盘价[20260724]": "27.200",
+      "最高价创新高(条件说明)[20260724]": "最高价:后复权创当日新高",
+      "量比[20260724]": "1.624845",
+      "market_code": "17",
+      "涨跌幅:前复权[20260724]": "4.21455939",
+      "总市值[20260724]": 4352000000,
+      "股票代码": "605028.SH",
+      "所属同花顺行业": "公用事业-电力-热力",
+      "5日均线上移(条件说明)[20260724]": "2026年07月24日5日线均线上移",
+      "最高价:前复权[20260724]": "27.95"
+    },
+    {
+      "10日均线上移(条件说明)[20260724]": "2026年07月24日10日线均线上移",
+      "code": "603383",
+      "买入信号inter[20260724]": "boll突破上轨||月线bias买入信号||周线skdj金叉",
+      "最新价": "28.59",
+      "a股市值(不含限售股)[20260724]": 5871710103.81,
+      "10日均线[20260724]": "26.596",
+      "{(}行情收盘价[20260724]{-}10日均线[20260724]{)}": 1.9939999999999998,
+      "振幅[20260724]": "5.601436",
+      "换手率[20260724]": "4.66005",
+      "5日均线[20260724]": "27.286",
+      "{(}行情收盘价[20260724]{-}5日均线[20260724]{)}": 1.3039999999999985,
+      "股票简称": "顶点软件",
+      "均价线[20260724]": "28.448",
+      "技术形态[20260724]": "价升量涨||阳线||放量",
+      "开盘价:前复权[20260724]": "27.59",
+      "行情收盘价[20260724]": "28.590",
+      "最高价创新高(条件说明)[20260724]": "最高价:后复权创当日新高",
+      "量比[20260724]": "2.108085",
+      "market_code": "17",
+      "涨跌幅:前复权[20260724]": "2.65709156",
+      "总市值[20260724]": 5871710103.81,
+      "股票代码": "603383.SH",
+      "所属同花顺行业": "计算机-软件开发-垂直应用软件",
+      "5日均线上移(条件说明)[20260724]": "2026年07月24日5日线均线上移",
+      "最高价:前复权[20260724]": "29.08"
+    },
+    {
+      "10日均线上移(条件说明)[20260724]": "2026年07月24日10日线均线上移",
+      "code": "605162",
+      "买入信号inter[20260724]": "周线bias买入信号||月线bias买入信号||周线skdj金叉",
+      "最新价": "8.64",
+      "a股市值(不含限售股)[20260724]": 3826192127.04,
+      "10日均线[20260724]": "7.525",
+      "{(}行情收盘价[20260724]{-}10日均线[20260724]{)}": 1.1150000000000002,
+      "振幅[20260724]": "11.242603",
+      "换手率[20260724]": "14.553793",
+      "5日均线[20260724]": "7.804",
+      "{(}行情收盘价[20260724]{-}5日均线[20260724]{)}": 0.8360000000000003,
+      "股票简称": "新中港",
+      "均价线[20260724]": "8.562",
+      "技术形态[20260724]": "价升量涨||放量||阴线",
+      "开盘价:前复权[20260724]": "8.65",
+      "行情收盘价[20260724]": "8.640",
+      "最高价创新高(条件说明)[20260724]": "最高价:后复权创当日新高",
+      "量比[20260724]": "4.194658",
+      "market_code": "17",
+      "涨跌幅:前复权[20260724]": "2.24852071",
+      "总市值[20260724]": 3826192127.04,
+      "股票代码": "605162.SH",
+      "所属同花顺行业": "公用事业-电力-热力",
+      "5日均线上移(条件说明)[20260724]": "2026年07月24日5日线均线上移",
+      "最高价:前复权[20260724]": "9"
+    },
+    {
+      "10日均线上移(条件说明)[20260724]": "2026年07月24日10日线均线上移",
+      "code": "300847",
+      "买入信号inter[20260724]": "月线bias买入信号||月线skdj超卖||周线rsi金叉",
+      "最新价": "14.23",
+      "a股市值(不含限售股)[20260724]": 4212222300,
+      "10日均线[20260724]": "13.308",
+      "{(}行情收盘价[20260724]{-}10日均线[20260724]{)}": 0.9220000000000006,
+      "振幅[20260724]": "11.135693",
+      "换手率[20260724]": "3.998009",
+      "5日均线[20260724]": "13.510",
+      "{(}行情收盘价[20260724]{-}5日均线[20260724]{)}": 0.7200000000000006,
+      "股票简称": "中船汉光",
+      "均价线[20260724]": "14.220",
+      "技术形态[20260724]": "价升量涨||阳线||放量",
+      "开盘价:前复权[20260724]": "13.42",
+      "行情收盘价[20260724]": "14.230",
+      "最高价创新高(条件说明)[20260724]": "最高价:后复权创当日新高",
+      "量比[20260724]": "4.31683",
+      "market_code": "33",
+      "涨跌幅:前复权[20260724]": "4.94100295",
+      "总市值[20260724]": 4212222300,
+      "股票代码": "300847.SZ",
+      "所属同花顺行业": "计算机-计算机设备-其他计算机设备",
+      "5日均线上移(条件说明)[20260724]": "2026年07月24日5日线均线上移",
+      "最高价:前复权[20260724]": "14.86"
+    }
+  ],
+  "row_count": 4,
+  "condition": [
+    {
+      "score": 0,
+      "node_type": "op",
+      "chunkedResult": "涨幅2%-5% _&_量比大于1 _&_换手率3%-15% _&_流通市值30亿-150亿 _&_股价在5日线上 _&_股价在10日线上 _&_5日均线向上 _&_10日均线向上 _&_分时均价线上 _&_创当日新高",
+      "children": [],
+      "opName": "and",
+      "ci": false,
+      "opPropertiesMap": {},
+      "opProperty": "",
+      "sonSize": 29,
+      "opPropertyMap": {},
+      "source": "new_parser"
+    },
+    {
+      "score": 0,
+      "node_type": "op",
+      "children": [],
+      "opName": "and",
+      "ci": false,
+      "opPropertiesMap": {},
+      "opProperty": "",
+      "uiText": "涨跌幅>=2%且涨跌幅<=5%",
+      "sonSize": 2,
+      "opPropertyMap": {},
+      "source": "new_parser"
+    },
+    {
+      "dateText": "",
+      "ci": false,
+      "indexName": "涨跌幅:前复权",
+      "indexProperties": [
+        "nodate 1",
+        "交易日期 20260724",
+        "(=0.02"
+      ],
+      "source": "new_parser",
+      "type": "index",
+      "indexPropertiesMap": {
+        "交易日期": "20260724",
+        "(=": "0.02",
+        "nodate": "1"
+      },
+      "reportType": "TRADE_DAILY",
+      "score": 0,
+      "node_type": "index",
+      "dateType": "交易日期",
+      "domain": "abs_股票领域",
+      "valueType": "_浮点型数值(%)",
+      "sonSize": 0
+    },
+    {
+      "dateText": "",
+      "ci": false,
+      "indexName": "涨跌幅:前复权",
+      "indexProperties": [
+        "nodate 1",
+        "交易日期 20260724",
+        "<=0.05"
+      ],
+      "source": "new_parser",
+      "type": "index",
+      "indexPropertiesMap": {
+        "<=": "0.05",
+        "交易日期": "20260724",
+        "nodate": "1"
+      },
+      "reportType": "TRADE_DAILY",
+      "score": 0,
+      "node_type": "index",
+      "dateType": "交易日期",
+      "domain": "abs_股票领域",
+      "valueType": "_浮点型数值(%)",
+      "sonSize": 0
+    },
+    {
+      "score": 0,
+      "node_type": "op",
+      "children": [],
+      "opName": "and",
+      "ci": false,
+      "opPropertiesMap": {},
+      "opProperty": "",
+      "sonSize": 25,
+      "opPropertyMap": {},
+      "source": "new_parser"
+    },
+    {
+      "dateText": "",
+      "ci": false,
+      "indexName": "量比",
+      "indexProperties": [
+        "nodate 1",
+        "交易日期 20260724",
+        "(1"
+      ],
+      "source": "new_parser",
+      "type": "index",
+      "indexPropertiesMap": {
+        "交易日期": "20260724",
+        "(": "1",
+        "nodate": "1"
+      },
+      "reportType": "TRADE_DAILY",
+      "score": 0,
+      "node_type": "index",
+      "dateType": "交易日期",
+      "domain": "abs_股票领域",
+      "uiText": "量比>1",
+      "valueType": "_浮点型数值",
+      "sonSize": 0
+    },
+    {
+      "score": 0,
+      "node_type": "op",
+      "children": [],
+      "opName": "and",
+      "ci": false,
+      "opPropertiesMap": {},
+      "opProperty": "",
+      "sonSize": 23,
+      "opPropertyMap": {},
+      "source": "new_parser"
+    },
+    {
+      "score": 0,
+      "node_type": "op",
+      "children": [],
+      "opName": "and",
+      "ci": false,
+      "opPropertiesMap": {},
+      "opProperty": "",
+      "uiText": "换手率>=3%且换手率<=15%",
+      "sonSize": 2,
+      "opPropertyMap": {},
+      "source": "new_parser"
+    },
+    {
+      "dateText": "",
+      "ci": false,
+      "indexName": "换手率",
+      "indexProperties": [
+        "nodate 1",
+        "交易日期 20260724",
+        "(=0.03"
+      ],
+      "source": "new_parser",
+      "type": "index",
+      "indexPropertiesMap": {
+        "交易日期": "20260724",
+        "(=": "0.03",
+        "nodate": "1"
+      },
+      "reportType": "TRADE_DAILY",
+      "score": 0,
+      "node_type": "index",
+      "dateType": "交易日期",
+      "domain": "abs_股票领域",
+      "valueType": "_浮点型数值(%)",
+      "sonSize": 0
+    },
+    {
+      "dateText": "",
+      "ci": false,
+      "indexName": "换手率",
+      "indexProperties": [
+        "nodate 1",
+        "交易日期 20260724",
+        "<=0.15"
+      ],
+      "source": "new_parser",
+      "type": "index",
+      "indexPropertiesMap": {
+        "<=": "0.15",
+        "交易日期": "20260724",
+        "nodate": "1"
+      },
+      "reportType": "TRADE_DAILY",
+      "score": 0,
+      "node_type": "index",
+      "dateType": "交易日期",
+      "domain": "abs_股票领域",
+      "valueType": "_浮点型数值(%)",
+      "sonSize": 0
+    },
+    {
+      "score": 0,
+      "node_type": "op",
+      "children": [],
+      "opName": "and",
+      "ci": false,
+      "opPropertiesMap": {},
+      "opProperty": "",
+      "sonSize": 19,
+      "opPropertyMap": {},
+      "source": "new_parser"
+    },
+    {
+      "score": 0,
+      "node_type": "op",
+      "children": [],
+      "opName": "and",
+      "ci": false,
+      "opPropertiesMap": {},
+      "opProperty": "",
+      "uiText": "a股市值(不含限售股)>=30亿元且a股市值(不含限售股)<=150亿元",
+      "sonSize": 2,
+      "opPropertyMap": {},
+      "source": "new_parser"
+    },
+    {
+      "dateText": "",
+      "ci": false,
+      "indexName": "a股市值(不含限售股)",
+      "indexProperties": [
+        "nodate 1",
+        "交易日期 20260724",
+        "(=3000000000"
+      ],
+      "source": "new_parser",
+      "type": "index",
+      "indexPropertiesMap": {
+        "交易日期": "20260724",
+        "(=": "3000000000",
+        "nodate": "1"
+      },
+      "reportType": "TRADE_DAILY",
+      "score": 0,
+      "node_type": "index",
+      "dateType": "交易日期",
+      "domain": "abs_股票领域",
+      "valueType": "_浮点型数值(元)",
+      "sonSize": 0
+    },
+    {
+      "dateText": "",
+      "ci": false,
+      "indexName": "a股市值(不含限售股)",
+      "indexProperties": [
+        "nodate 1",
+        "交易日期 20260724",
+        "<=15000000000"
+      ],
+      "source": "new_parser",
+      "type": "index",
+      "indexPropertiesMap": {
+        "<=": "15000000000",
+        "交易日期": "20260724",
+        "nodate": "1"
+      },
+      "reportType": "TRADE_DAILY",
+      "score": 0,
+      "node_type": "index",
+      "dateType": "交易日期",
+      "domain": "abs_股票领域",
+      "valueType": "_浮点型数值(元)",
+      "sonSize": 0
+    },
+    {
+      "score": 0,
+      "node_type": "op",
+      "children": [],
+      "opName": "and",
+      "ci": false,
+      "opPropertiesMap": {},
+      "opProperty": "",
+      "sonSize": 15,
+      "opPropertyMap": {},
+      "source": "new_parser"
+    },
+    {
+      "score": 0,
+      "node_type": "op",
+      "children": [],
+      "opName": "-",
+      "ci": false,
+      "opPropertiesMap": {},
+      "opProperty": "(0",
+      "uiText": "行情收盘价>5日的均线",
+      "sonSize": 2,
+      "opPropertyMap": {},
+      "source": "new_parser"
+    },
+    {
+      "dateText": "",
+      "ci": false,
+      "indexName": "行情收盘价",
+      "indexProperties": [
+        "nodate 1",
+        "交易日期 20260724"
+      ],
+      "source": "new_parser",
+      "type": "tech",
+      "indexPropertiesMap": {
+        "交易日期": "20260724",
+        "nodate": "1"
+      },
+      "reportType": "TRADE_DAILY",
+      "score": 0,
+      "node_type": "index",
+      "dateType": "交易日期",
+      "domain": "abs_股票领域",
+      "valueType": "_浮点型数值(元)",
+      "sonSize": 0
+    },
+    {
+      "dateText": "",
+      "ci": false,
+      "indexName": "均线",
+      "indexProperties": [
+        "nodate 1",
+        "n日 5日",
+        "交易日期 20260724"
+      ],
+      "source": "new_parser",
+      "type": "tech",
+      "indexPropertiesMap": {
+        "交易日期": "20260724",
+        "n日": "5日",
+        "nodate": "1"
+      },
+      "reportType": "TRADE_DAILY",
+      "score": 0,
+      "node_type": "index",
+      "dateType": "交易日期",
+      "domain": "abs_股票领域",
+      "valueType": "_浮点型数值",
+      "sonSize": 0
+    },
+    {
+      "score": 0,
+      "node_type": "op",
+      "children": [],
+      "opName": "and",
+      "ci": false,
+      "opPropertiesMap": {},
+      "opProperty": "",
+      "sonSize": 11,
+      "opPropertyMap": {},
+      "source": "new_parser"
+    },
+    {
+      "score": 0,
+      "node_type": "op",
+      "children": [],
+      "opName": "-",
+      "ci": false,
+      "opPropertiesMap": {},
+      "opProperty": "(0",
+      "uiText": "行情收盘价>10日的均线",
+      "sonSize": 2,
+      "opPropertyMap": {},
+      "source": "new_parser"
+    },
+    {
+      "dateText": "",
+      "ci": false,
+      "indexName": "行情收盘价",
+      "indexProperties": [
+        "nodate 1",
+        "交易日期 20260724"
+      ],
+      "source": "new_parser",
+      "type": "tech",
+      "indexPropertiesMap": {
+        "交易日期": "20260724",
+        "nodate": "1"
+      },
+      "reportType": "TRADE_DAILY",
+      "score": 0,
+      "node_type": "index",
+      "dateType": "交易日期",
+      "domain": "abs_股票领域",
+      "valueType": "_浮点型数值(元)",
+      "sonSize": 0
+    },
+    {
+      "dateText": "",
+      "ci": false,
+      "indexName": "均线",
+      "indexProperties": [
+        "nodate 1",
+        "n日 10日",
+        "交易日期 20260724"
+      ],
+      "source": "new_parser",
+      "type": "tech",
+      "indexPropertiesMap": {
+        "交易日期": "20260724",
+        "n日": "10日",
+        "nodate": "1"
+      },
+      "reportType": "TRADE_DAILY",
+      "score": 0,
+      "node_type": "index",
+      "dateType": "交易日期",
+      "domain": "abs_股票领域",
+      "valueType": "_浮点型数值",
+      "sonSize": 0
+    },
+    {
+      "score": 0,
+      "node_type": "op",
+      "children": [],
+      "opName": "and",
+      "ci": false,
+      "opPropertiesMap": {},
+      "opProperty": "",
+      "sonSize": 7,
+      "opPropertyMap": {},
+      "source": "new_parser"
+    },
+    {
+      "dateText": "",
+      "ci": false,
+      "indexName": "均线上移",
+      "indexProperties": [
+        "nodate 1",
+        "n日 5日",
+        "交易日期 20260724",
+        "包含1"
+      ],
+      "source": "new_parser",
+      "type": "tech",
+      "indexPropertiesMap": {
+        "交易日期": "20260724",
+        "n日": "5日",
+        "包含": "1",
+        "nodate": "1"
+      },
+      "reportType": "TRADE_DAILY",
+      "score": 0,
+      "node_type": "index",
+      "dateType": "交易日期",
+      "domain": "abs_股票领域",
+      "uiText": "2026年07月24日5日线均线上移",
+      "valueType": "_浮点型数值",
+      "sonSize": 0
+    },
+    {
+      "score": 0,
+      "node_type": "op",
+      "children": [],
+      "opName": "and",
+      "ci": false,
+      "opPropertiesMap": {},
+      "opProperty": "",
+      "sonSize": 5,
+      "opPropertyMap": {},
+      "source": "new_parser"
+    },
+    {
+      "dateText": "",
+      "ci": false,
+      "indexName": "均线上移",
+      "indexProperties": [
+        "nodate 1",
+        "n日 10日",
+        "交易日期 20260724",
+        "包含1"
+      ],
+      "source": "new_parser",
+      "type": "tech",
+      "indexPropertiesMap": {
+        "交易日期": "20260724",
+        "n日": "10日",
+        "包含": "1",
+        "nodate": "1"
+      },
+      "reportType": "TRADE_DAILY",
+      "score": 0,
+      "node_type": "index",
+      "dateType": "交易日期",
+      "domain": "abs_股票领域",
+      "uiText": "2026年07月24日10日线均线上移",
+      "valueType": "_浮点型数值",
+      "sonSize": 0
+    },
+    {
+      "score": 0,
+      "node_type": "op",
+      "children": [],
+      "opName": "and",
+      "ci": false,
+      "opPropertiesMap": {},
+      "opProperty": "",
+      "sonSize": 3,
+      "opPropertyMap": {},
+      "source": "new_parser"
+    },
+    {
+      "dateText": "",
+      "ci": false,
+      "indexName": "均价线",
+      "indexProperties": [
+        "nodate 1",
+        "交易日期 20260724"
+      ],
+      "source": "new_parser",
+      "type": "tech",
+      "indexPropertiesMap": {
+        "交易日期": "20260724",
+        "nodate": "1"
+      },
+      "reportType": "TRADE_DAILY",
+      "score": 0,
+      "node_type": "index",
+      "dateType": "交易日期",
+      "domain": "abs_股票领域",
+      "uiText": "均价线",
+      "valueType": "_浮点型数值",
+      "sonSize": 0
+    },
+    {
+      "score": 0,
+      "node_type": "op",
+      "children": [],
+      "opName": "创新高",
+      "ci": false,
+      "opPropertiesMap": {},
+      "opProperty": "[起始交易日期 20260724,截止交易日期 20260724]",
+      "uiText": "最高价:后复权创当日新高",
+      "sonSize": 1,
+      "opPropertyMap": {},
+      "source": "new_parser"
+    },
+    {
+      "dateText": "",
+      "ci": false,
+      "indexName": "最高价:后复权",
+      "indexProperties": [
+        "nodate 1",
+        "周期长度 1",
+        "交易日期 20260724"
+      ],
+      "source": "new_parser",
+      "type": "index",
+      "indexPropertiesMap": {
+        "交易日期": "20260724",
+        "周期长度": "1",
+        "nodate": "1"
+      },
+      "reportType": "TRADE_DAILY",
+      "score": 0,
+      "node_type": "index",
+      "dateType": "交易日期",
+      "domain": "abs_股票领域",
+      "valueType": "_浮点型数值(元)",
+      "sonSize": 0
+    }
+  ],
+  "raw_response": {
+    "status_code": 0,
+    "data": {
+      "parser_data": {
+        "domain": "abs_股票领域",
+        "sugs": [],
+        "query_type": "stock",
+        "condition_id": ""
+      },
+      "status_code": 0,
+      "answer": [
+        {
+          "src_url": "",
+          "urp_flag": 1,
+          "img": [],
+          "sug": [],
+          "show_delay_time": 2,
+          "source": "finance",
+          "video": [],
+          "his_time": 1785030346396,
+          "zhengu_duolun": 0,
+          "score": 99.87,
+          "duolun_signal": 0,
+          "secondary_source": "stock",
+          "id": 1144056528,
+          "ans_type": "NORMAL",
+          "table": [],
+          "text_answer": "为你找到4条结果，包含顶点软件(603383.SH)、世茂能源(605028.SH)、新中港(605162.SH)等股票，告诉我你感兴趣的股票,我可以给你更多解读.",
+          "question": "",
+          "voice_txt": "我为你找到了很多结果呢，有顶点软件，世茂能源，新中港等4个结果，告诉我你对哪只感兴趣,我来为你详解解读",
+          "activeTime": 60000,
+          "outside_url": "",
+          "sug_title": "",
+          "intent": "iwencai",
+          "diagram": [],
+          "txt": [
+            {
+              "color": "none",
+              "ansDelayTime": 0,
+              "link_url": "",
+              "disambiguationed": "false",
+              "style": "none",
+              "div_no": 0,
+              "type": "global-result",
+              "content": {
+                "components": [
+                  {
+                    "show_type": "xuangu_tableV1",
+                    "title_config": {
+                      "show_type": "title1",
+                      "data": {
+                        "h1": "",
+                        "h2": ""
+                      },
+                      "config": {
+                        "display": true,
+                        "type": "7",
+                        "url": ""
+                      }
+                    },
+                    "data": {
+                      "columns": [
+                        {
+                          "unit": "",
+                          "domain": "abs_股票领域",
+                          "source": "fixed_index",
+                          "label": "code",
+                          "type": "STR",
+                          "index_name": "股票代码",
+                          "key": "股票代码"
+                        },
+                        {
+                          "unit": "",
+                          "domain": "abs_股票领域",
+                          "source": "fixed_index",
+                          "label": "name",
+                          "type": "STR",
+                          "index_name": "股票简称",
+                          "key": "股票简称"
+                        },
+                        {
+                          "unit": "元",
+                          "domain": "abs_股票领域",
+                          "source": "fixed_index",
+                          "label": "price",
+                          "type": "DOUBLE",
+                          "index_name": "最新价",
+                          "key": "最新价",
+                          "timestamp": ""
+                        },
+                        {
+                          "unit": "%",
+                          "filter_value": "5.0",
+                          "filter_oper": "<=",
+                          "domain": "abs_股票领域",
+                          "source": "new_parser",
+                          "label": "风险等级B",
+                          "filter_keys": "涨跌幅:前复权[20260724]",
+                          "type": "DOUBLE",
+                          "index_name": "涨跌幅:前复权",
+                          "key": "涨跌幅:前复权[20260724]",
+                          "timestamp": "20260724"
+                        },
+                        {
+                          "unit": "",
+                          "filter_value": "1",
+                          "filter_oper": ">",
+                          "domain": "abs_股票领域",
+                          "source": "new_parser",
+                          "filter_keys": "量比[20260724]",
+                          "type": "DOUBLE",
+                          "index_name": "量比",
+                          "key": "量比[20260724]",
+                          "timestamp": "20260724"
+                        },
+                        {
+                          "unit": "%",
+                          "filter_value": "15.0",
+                          "filter_oper": "<=",
+                          "domain": "abs_股票领域",
+                          "source": "new_parser",
+                          "filter_keys": "换手率[20260724]",
+                          "type": "DOUBLE",
+                          "index_name": "换手率",
+                          "key": "换手率[20260724]",
+                          "timestamp": "20260724"
+                        },
+                        {
+                          "unit": "元",
+                          "filter_value": "15000000000",
+                          "filter_oper": "<=",
+                          "domain": "abs_股票领域",
+                          "source": "new_parser",
+                          "filter_keys": "a股市值(不含限售股)[20260724]",
+                          "type": "DOUBLE",
+                          "index_name": "a股市值(不含限售股)",
+                          "key": "a股市值(不含限售股)[20260724]",
+                          "timestamp": "20260724"
+                        },
+                        {
+                          "unit": "",
+                          "domain": "abs_股票领域",
+                          "source": "new_parser",
+                          "type": "DOUBLE",
+                          "index_name": "行情收盘价",
+                          "key": "行情收盘价[20260724]",
+                          "timestamp": "20260724"
+                        },
+                        {
+                          "unit": "",
+                          "domain": "abs_股票领域",
+                          "indexId": "",
+                          "source": "new_parser",
+                          "type": "DOUBLE",
+                          "index_name": "均线",
+                          "key": "5日均线[20260724]",
+                          "timestamp": "20260724"
+                        },
+                        {
+                          "unit": "",
+                          "domain": "abs_股票领域",
+                          "indexId": "",
+                          "source": "new_parser",
+                          "type": "DOUBLE",
+                          "index_name": "均线",
+                          "key": "10日均线[20260724]",
+                          "timestamp": "20260724"
+                        },
+                        {
+                          "unit": "",
+                          "domain": "abs_股票领域",
+                          "indexId": "",
+                          "source": "calc",
+                          "sort_info": "desc",
+                          "type": "DOUBLE",
+                          "index_name": "{(}行情收盘价{-}5日均线{)}",
+                          "key": "{(}行情收盘价[20260724]{-}5日均线[20260724]{)}",
+                          "timestamp": "20260724"
+                        },
+                        {
+                          "unit": "",
+                          "domain": "abs_股票领域",
+                          "indexId": "",
+                          "source": "calc",
+                          "type": "DOUBLE",
+                          "index_name": "{(}行情收盘价{-}10日均线{)}",
+                          "key": "{(}行情收盘价[20260724]{-}10日均线[20260724]{)}",
+                          "timestamp": "20260724"
+                        },
+                        {
+                          "unit": "",
+                          "domain": "abs_股票领域",
+                          "source": "new_parser",
+                          "type": "DOUBLE",
+                          "index_name": "均价线",
+                          "key": "均价线[20260724]",
+                          "timestamp": "20260724"
+                        },
+                        {
+                          "unit": "元",
+                          "domain": "abs_股票领域",
+                          "source": "add_condition",
+                          "label": "风险等级B",
+                          "type": "DOUBLE",
+                          "index_name": "开盘价:前复权",
+                          "key": "开盘价:前复权[20260724]",
+                          "timestamp": "20260724"
+                        },
+                        {
+                          "unit": "元",
+                          "domain": "abs_股票领域",
+                          "source": "add_condition",
+                          "label": "风险等级B",
+                          "type": "DOUBLE",
+                          "index_name": "最高价:前复权",
+                          "key": "最高价:前复权[20260724]",
+                          "timestamp": "20260724"
+                        },
+                        {
+                          "unit": "%",
+                          "domain": "abs_股票领域",
+                          "source": "add_condition",
+                          "type": "DOUBLE",
+                          "index_name": "振幅",
+                          "key": "振幅[20260724]",
+                          "timestamp": "20260724"
+                        },
+                        {
+                          "unit": "元",
+                          "domain": "abs_股票领域",
+                          "source": "add_condition",
+                          "type": "DOUBLE",
+                          "index_name": "总市值",
+                          "key": "总市值[20260724]",
+                          "timestamp": "20260724"
+                        },
+                        {
+                          "unit": "",
+                          "subtype": "split",
+                          "domain": "abs_股票领域",
+                          "source": "add_condition",
+                          "type": "STR",
+                          "index_name": "所属同花顺行业",
+                          "key": "所属同花顺行业",
+                          "timestamp": ""
+                        },
+                        {
+                          "unit": "",
+                          "subtype": "split",
+                          "domain": "abs_股票领域",
+                          "source": "add_condition",
+                          "type": "STR",
+                          "index_name": "买入信号inter",
+                          "key": "买入信号inter[20260724]",
+                          "timestamp": "20260724"
+                        },
+                        {
+                          "unit": "",
+                          "subtype": "split",
+                          "domain": "abs_股票领域",
+                          "source": "add_condition",
+                          "type": "STR",
+                          "index_name": "技术形态",
+                          "key": "技术形态[20260724]",
+                          "timestamp": "20260724"
+                        },
+                        {
+                          "unit": "",
+                          "domain": "abs_股票领域",
+                          "indexId": "",
+                          "source": "new_parser",
+                          "label": "market_pattern",
+                          "type": "STR",
+                          "index_name": "均线上移(条件说明)",
+                          "key": "5日均线上移(条件说明)[20260724]",
+                          "timestamp": "20260724"
+                        },
+                        {
+                          "unit": "",
+                          "domain": "abs_股票领域",
+                          "indexId": "",
+                          "source": "new_parser",
+                          "label": "market_pattern",
+                          "type": "STR",
+                          "index_name": "均线上移(条件说明)",
+                          "key": "10日均线上移(条件说明)[20260724]",
+                          "timestamp": "20260724"
+                        },
+                        {
+                          "unit": "",
+                          "domain": "abs_股票领域",
+                          "indexId": "",
+                          "source": "new_parser",
+                          "label": "market_pattern",
+                          "type": "STR",
+                          "index_name": "最高价创新高(条件说明)",
+                          "key": "最高价创新高(条件说明)[20260724]",
+                          "timestamp": "20260724"
+                        }
+                      ],
+                      "datas": [
+                        {
+                          "10日均线上移(条件说明)[20260724]": "2026年07月24日10日线均线上移",
+                          "code": "605028",
+                          "买入信号inter[20260724]": "周线boll突破中轨||周线dmi金叉||月线rsi底背离",
+                          "最新价": "27.2",
+                          "a股市值(不含限售股)[20260724]": 4352000000,
+                          "10日均线[20260724]": "23.831",
+                          "{(}行情收盘价[20260724]{-}10日均线[20260724]{)}": 3.3689999999999998,
+                          "振幅[20260724]": "12.490421",
+                          "换手率[20260724]": "5.975156",
+                          "5日均线[20260724]": "24.654",
+                          "{(}行情收盘价[20260724]{-}5日均线[20260724]{)}": 2.5459999999999994,
+                          "股票简称": "世茂能源",
+                          "均价线[20260724]": "26.821",
+                          "技术形态[20260724]": "阳线||放量||价升量缩",
+                          "开盘价:前复权[20260724]": "24.69",
+                          "行情收盘价[20260724]": "27.200",
+                          "最高价创新高(条件说明)[20260724]": "最高价:后复权创当日新高",
+                          "量比[20260724]": "1.624845",
+                          "market_code": "17",
+                          "涨跌幅:前复权[20260724]": "4.21455939",
+                          "总市值[20260724]": 4352000000,
+                          "股票代码": "605028.SH",
+                          "所属同花顺行业": "公用事业-电力-热力",
+                          "5日均线上移(条件说明)[20260724]": "2026年07月24日5日线均线上移",
+                          "最高价:前复权[20260724]": "27.95"
+                        },
+                        {
+                          "10日均线上移(条件说明)[20260724]": "2026年07月24日10日线均线上移",
+                          "code": "603383",
+                          "买入信号inter[20260724]": "boll突破上轨||月线bias买入信号||周线skdj金叉",
+                          "最新价": "28.59",
+                          "a股市值(不含限售股)[20260724]": 5871710103.81,
+                          "10日均线[20260724]": "26.596",
+                          "{(}行情收盘价[20260724]{-}10日均线[20260724]{)}": 1.9939999999999998,
+                          "振幅[20260724]": "5.601436",
+                          "换手率[20260724]": "4.66005",
+                          "5日均线[20260724]": "27.286",
+                          "{(}行情收盘价[20260724]{-}5日均线[20260724]{)}": 1.3039999999999985,
+                          "股票简称": "顶点软件",
+                          "均价线[20260724]": "28.448",
+                          "技术形态[20260724]": "价升量涨||阳线||放量",
+                          "开盘价:前复权[20260724]": "27.59",
+                          "行情收盘价[20260724]": "28.590",
+                          "最高价创新高(条件说明)[20260724]": "最高价:后复权创当日新高",
+                          "量比[20260724]": "2.108085",
+                          "market_code": "17",
+                          "涨跌幅:前复权[20260724]": "2.65709156",
+                          "总市值[20260724]": 5871710103.81,
+                          "股票代码": "603383.SH",
+                          "所属同花顺行业": "计算机-软件开发-垂直应用软件",
+                          "5日均线上移(条件说明)[20260724]": "2026年07月24日5日线均线上移",
+                          "最高价:前复权[20260724]": "29.08"
+                        },
+                        {
+                          "10日均线上移(条件说明)[20260724]": "2026年07月24日10日线均线上移",
+                          "code": "605162",
+                          "买入信号inter[20260724]": "周线bias买入信号||月线bias买入信号||周线skdj金叉",
+                          "最新价": "8.64",
+                          "a股市值(不含限售股)[20260724]": 3826192127.04,
+                          "10日均线[20260724]": "7.525",
+                          "{(}行情收盘价[20260724]{-}10日均线[20260724]{)}": 1.1150000000000002,
+                          "振幅[20260724]": "11.242603",
+                          "换手率[20260724]": "14.553793",
+                          "5日均线[20260724]": "7.804",
+                          "{(}行情收盘价[20260724]{-}5日均线[20260724]{)}": 0.8360000000000003,
+                          "股票简称": "新中港",
+                          "均价线[20260724]": "8.562",
+                          "技术形态[20260724]": "价升量涨||放量||阴线",
+                          "开盘价:前复权[20260724]": "8.65",
+                          "行情收盘价[20260724]": "8.640",
+                          "最高价创新高(条件说明)[20260724]": "最高价:后复权创当日新高",
+                          "量比[20260724]": "4.194658",
+                          "market_code": "17",
+                          "涨跌幅:前复权[20260724]": "2.24852071",
+                          "总市值[20260724]": 3826192127.04,
+                          "股票代码": "605162.SH",
+                          "所属同花顺行业": "公用事业-电力-热力",
+                          "5日均线上移(条件说明)[20260724]": "2026年07月24日5日线均线上移",
+                          "最高价:前复权[20260724]": "9"
+                        },
+                        {
+                          "10日均线上移(条件说明)[20260724]": "2026年07月24日10日线均线上移",
+                          "code": "300847",
+                          "买入信号inter[20260724]": "月线bias买入信号||月线skdj超卖||周线rsi金叉",
+                          "最新价": "14.23",
+                          "a股市值(不含限售股)[20260724]": 4212222300,
+                          "10日均线[20260724]": "13.308",
+                          "{(}行情收盘价[20260724]{-}10日均线[20260724]{)}": 0.9220000000000006,
+                          "振幅[20260724]": "11.135693",
+                          "换手率[20260724]": "3.998009",
+                          "5日均线[20260724]": "13.510",
+                          "{(}行情收盘价[20260724]{-}5日均线[20260724]{)}": 0.7200000000000006,
+                          "股票简称": "中船汉光",
+                          "均价线[20260724]": "14.220",
+                          "技术形态[20260724]": "价升量涨||阳线||放量",
+                          "开盘价:前复权[20260724]": "13.42",
+                          "行情收盘价[20260724]": "14.230",
+                          "最高价创新高(条件说明)[20260724]": "最高价:后复权创当日新高",
+                          "量比[20260724]": "4.31683",
+                          "market_code": "33",
+                          "涨跌幅:前复权[20260724]": "4.94100295",
+                          "总市值[20260724]": 4212222300,
+                          "股票代码": "300847.SZ",
+                          "所属同花顺行业": "计算机-计算机设备-其他计算机设备",
+                          "5日均线上移(条件说明)[20260724]": "2026年07月24日5日线均线上移",
+                          "最高价:前复权[20260724]": "14.86"
+                        }
+                      ],
+                      "meta": {
+                        "ret": "json_all",
+                        "addcondition": "{\"\\u6da8\\u8dcc\\u5e45:\\u524d\\u590d\\u6743\":[\"\\u5f00\\u76d8\\u4ef7:\\u524d\\u590d\\u6743\",\"\\u6700\\u9ad8\\u4ef7:\\u524d\\u590d\\u6743\",\"\\u6700\\u4f4e\\u4ef7:\\u524d\\u590d\\u6743\",\"\\u6536\\u76d8\\u4ef7:\\u524d\\u590d\\u6743\",\"\\u632f\\u5e45\",\"\\u6210\\u4ea4\\u91cf\"],\"\\u91cf\\u6bd4\":[\"\\u632f\\u5e45\"],\"\\u6362\\u624b\\u7387\":[\"\\u6da8\\u8dcc\",\"\\u632f\\u5e45\",\"\\u6210\\u4ea4\\u91cf\",\"\\u6210\\u4ea4\\u989d\"],\"a\\u80a1\\u5e02\\u503c(\\u4e0d\\u542b\\u9650\\u552e\\u80a1)\":[\"\\u603b\\u5e02\\u503c\",\"\\u6240\\u5c5e\\u540c\\u82b1\\u987a\\u884c\\u4e1a\"],\"\\u884c\\u60c5\\u6536\\u76d8\\u4ef7\":[\"\\u4e70\\u5165\\u4fe1\\u53f7inter\",\"\\u6280\\u672f\\u5f62\\u6001\"],\"\\u5747\\u7ebf\":[\"\\u4e70\\u5165\\u4fe1\\u53f7inter\",\"\\u6280\\u672f\\u5f62\\u6001\"],\"\\u5747\\u7ebf\\u4e0a\\u79fb\":[\"\\u4e70\\u5165\\u4fe1\\u53f7inter\",\"\\u6280\\u672f\\u5f62\\u6001\"],\"\\u5747\\u4ef7\\u7ebf\":[],\"\\u6700\\u9ad8\\u4ef7:\\u540e\\u590d\\u6743\":[\"\\u4e70\\u5165\\u4fe1\\u53f7inter\",\"\\u6280\\u672f\\u5f62\\u6001\"]}",
+                        "is_cache": "1",
+                        "sessionid": "b7590df654d8ee42ce84ba7b098abffd",
+                        "source": "Ths_iwencai_Xuangu",
+                        "permission_limit": "charge_data",
+                        "qid": "b7590df654d8ee42ce84ba7b098abffd",
+                        "urp_use_sort": "1",
+                        "userid": "Ths_iwencai_Xuangu_7y3bopeyrdbi8ouk15jzjcd48igcc5ms",
+                        "q": "涨幅2%-5% 量比大于1 换手率3%-15% 流通市值30亿-150亿 股价在5日线上 股价在10日线上 5日均线向上 10日均线向上 分时均价线上 创当日新高",
+                        "domain": "abs_股票领域",
+                        "extra": {
+                          "QTime": "721",
+                          "status_code": 0,
+                          "iwc_column_info": {
+                            "10日均线上移(条件说明)[20260724]": {
+                              "index_meta": [],
+                              "trace_config": {
+                                "1": [
+                                  {
+                                    "link_type": 11,
+                                    "bind_index": "10日均线上移(条件说明)[20260724]",
+                                    "interaction_type": 1,
+                                    "label": "",
+                                    "event": 2,
+                                    "type": 2,
+                                    "url": "//www.iwencai.com/indicator/?info={$code$}_{$market_code$}_{$股票简称$}_均线上移(条件说明)"
+                                  }
+                                ]
+                              },
+                              "display_config": []
+                            },
+                            "买入信号inter[20260724]": {
+                              "index_meta": {
+                                "description": [],
+                                "label": "买入信号"
+                              },
+                              "trace_config": {
+                                "1": [
+                                  {
+                                    "link_type": 1,
+                                    "bind_index": "买入信号inter[20260724]",
+                                    "interaction_type": 1,
+                                    "label": "",
+                                    "event": 1,
+                                    "type": 1,
+                                    "params": {
+                                      "join_type": "4",
+                                      "query": "{$指标值$} 选股新动向"
+                                    }
+                                  }
+                                ],
+                                "2": [
+                                  {
+                                    "link_type": 1,
+                                    "bind_index": "买入信号inter[20260724]",
+                                    "interaction_type": 2,
+                                    "label": "",
+                                    "event": 1,
+                                    "type": 1,
+                                    "params": {
+                                      "join_type": "1",
+                                      "query": "{$股票代码$} 买入信号inter"
+                                    }
+                                  }
+                                ]
+                              },
+                              "display_config": {
+                                "split": [
+                                  {
+                                    "comp_relation": "any",
+                                    "comp_with": ";",
+                                    "effect": "{\"num\":3,\"str\":\"【@@】\",\"split_char\":\"||\",\"more\":\"<a href=\\\"/stockpick/search?typed=1&preParams=&ts=1&f=1&qs=index_rewrite&selfsectsn=&querytype=&searchfilter=&tid=stockpick&w=(_stk-code_)+选股新动向\\\" target=\\\"_blank\\\">更多</a>\"}"
+                                  }
+                                ],
+                                "link": [
+                                  {
+                                    "comp_relation": "include",
+                                    "comp_with": "*",
+                                    "effect": "/stockpick/search?preParams=&ts=1&f=1&qs=zxmcxh&querytype=&tid=stockpick&w=(current)选股新动向"
+                                  }
+                                ]
+                              }
+                            },
+                            "最新价": {
+                              "index_meta": {
+                                "description": [],
+                                "label": "现价"
+                              },
+                              "display_config": {
+                                "accuracy": [
+                                  {
+                                    "comp_relation": "any",
+                                    "comp_with": "*",
+                                    "effect": "2"
+                                  }
+                                ]
+                              }
+                            },
+                            "a股市值(不含限售股)[20260724]": {
+                              "index_meta": {
+                                "description": [],
+                                "label": "a股流通市值\r"
+                              },
+                              "trace_config": {
+                                "1": [
+                                  {
+                                    "link_type": 1,
+                                    "bind_index": "a股市值(不含限售股)[20260724]",
+                                    "interaction_type": 1,
+                                    "label": "",
+                                    "event": 1,
+                                    "type": 1,
+                                    "params": {
+                                      "join_type": "4",
+                                      "query": "{$股票代码$} {$时间区间$} 流通市值"
+                                    }
+                                  }
+                                ]
+                              },
+                              "display_config": {
+                                "unit": [
+                                  {
+                                    "comp_relation": ">=",
+                                    "comp_with": "10000",
+                                    "effect": "万"
+                                  },
+                                  {
+                                    "comp_relation": ">=",
+                                    "comp_with": "100000000",
+                                    "effect": "亿"
+                                  }
+                                ],
+                                "link": [
+                                  {
+                                    "comp_relation": "include",
+                                    "comp_with": "*",
+                                    "effect": "/stockpick/search?preParams=&ts=1&qs=zgxgrh_ltsz&tid=stockpick&w=(_stk-code_)+(time)+%E6%B5%81%E9%80%9A%E5%B8%82%E5%80%BC"
+                                  }
+                                ]
+                              }
+                            },
+                            "行情收盘价[20260724]": {
+                              "index_meta": {
+                                "index_number": "[1]"
+                              },
+                              "display_config": {
+                                "accuracy": [
+                                  {
+                                    "comp_relation": "any",
+                                    "comp_with": "*",
+                                    "effect": "2"
+                                  }
+                                ]
+                              }
+                            },
+                            "10日均线[20260724]": {
+                              "index_meta": {
+                                "index_number": "[3]"
+                              },
+                              "display_config": []
+                            },
+                            "{(}行情收盘价[20260724]{-}10日均线[20260724]{)}": {
+                              "index_meta": {
+                                "index_number": "[1]-[3]",
+                                "description": {
+                                  "desc": "[1]-[3] = 行情收盘价[20260724]-10日均线[20260724]"
+                                }
+                              },
+                              "display_config": []
+                            },
+                            "最高价创新高(条件说明)[20260724]": {
+                              "index_meta": [],
+                              "display_config": []
+                            },
+                            "振幅[20260724]": {
+                              "index_meta": {
+                                "description": {
+                                  "desc": "指定交易日开盘后最高点与最低点之差的绝对值与昨日股价的百分比"
+                                },
+                                "label": "振幅"
+                              },
+                              "display_config": {
+                                "accuracy": [
+                                  {
+                                    "comp_relation": "any",
+                                    "comp_with": "*",
+                                    "effect": "2"
+                                  }
+                                ]
+                              }
+                            },
+                            "量比[20260724]": {
+                              "index_meta": {
+                                "description": {
+                                  "desc": "量比是衡量相对成交量的指标。量比的数值越大，表明了该股当日流入的资金越多，市场活跃度越高；反之也成立。公式：量比=（现成交总手数 / 现累计开市时间(分) ）/ 过去5日平均每分钟成交量"
+                                },
+                                "label": "量比"
+                              },
+                              "display_config": {
+                                "accuracy": [
+                                  {
+                                    "comp_relation": "include",
+                                    "comp_with": "*",
+                                    "effect": "2"
+                                  }
+                                ]
+                              }
+                            },
+                            "换手率[20260724]": {
+                              "index_meta": {
+                                "description": {
+                                  "desc": "一定时间内市场中股票转手买卖的频率，是反映股票流通性强弱的指标之一。公式：换手率=成交量/流通a股×100%"
+                                },
+                                "label": "换手率"
+                              },
+                              "trace_config": {
+                                "1": [
+                                  {
+                                    "link_type": 1,
+                                    "bind_index": "换手率[20260724]",
+                                    "interaction_type": 1,
+                                    "label": "",
+                                    "event": 1,
+                                    "type": 1,
+                                    "params": {
+                                      "join_type": "4",
+                                      "query": "{$股票代码$} 20260724 换手率 "
+                                    }
+                                  }
+                                ]
+                              },
+                              "display_config": {
+                                "link": [
+                                  {
+                                    "comp_relation": "include",
+                                    "comp_with": "*",
+                                    "effect": " /stockpick/search?preParams=&ts=1&f=1&qs=zgxgrh_hsl&querytype=&tid=stockpick&w=(_stk-code_)+(time)%E6%8D%A2%E6%89%8B%E7%8E%87"
+                                  }
+                                ],
+                                "accuracy": [
+                                  {
+                                    "comp_relation": "include",
+                                    "comp_with": "*",
+                                    "effect": "2"
+                                  }
+                                ]
+                              }
+                            },
+                            "涨跌幅:前复权[20260724]": {
+                              "index_meta": {
+                                "description": {
+                                  "desc": "前复权就是以除权前的价格为基准来对除权后的股票数据进行修复"
+                                },
+                                "label": "涨跌幅:前复权"
+                              },
+                              "display_config": {
+                                "hl": [
+                                  {
+                                    "comp_relation": "<",
+                                    "comp_with": "0",
+                                    "effect": "green"
+                                  },
+                                  {
+                                    "comp_relation": ">",
+                                    "comp_with": "0",
+                                    "effect": "red"
+                                  }
+                                ],
+                                "accuracy": [
+                                  {
+                                    "comp_relation": "any",
+                                    "comp_with": "*",
+                                    "effect": "2"
+                                  }
+                                ]
+                              }
+                            },
+                            "总市值[20260724]": {
+                              "index_meta": {
+                                "description": {
+                                  "desc": "总市值＝A股收盘价*（流通A股数+限售A股）+按汇率折算后的B股收盘价*（流通B股数+限售B股数）+按汇率折算后的H股收盘价*（流通H股数+限售H股数）"
+                                },
+                                "label": "总市值"
+                              },
+                              "trace_config": {
+                                "1": [
+                                  {
+                                    "link_type": 1,
+                                    "bind_index": "总市值[20260724]",
+                                    "interaction_type": 1,
+                                    "label": "",
+                                    "event": 1,
+                                    "type": 1,
+                                    "params": {
+                                      "join_type": "4",
+                                      "query": "{$股票代码$}{$时间区间$}总市值"
+                                    }
+                                  }
+                                ]
+                              },
+                              "display_config": {
+                                "unit": [
+                                  {
+                                    "comp_relation": ">",
+                                    "comp_with": "10000",
+                                    "effect": "万"
+                                  },
+                                  {
+                                    "comp_relation": ">",
+                                    "comp_with": "100000000",
+                                    "effect": "亿"
+                                  }
+                                ],
+                                "link": [
+                                  {
+                                    "comp_relation": "include",
+                                    "comp_with": "*",
+                                    "effect": "/stockpick/search?preParams=&ts=1&qs=zgxgrh_zsz&tid=stockpick&w=(_stk-code_)+(time)+%E6%80%BB%E5%B8%82%E5%80%BC"
+                                  }
+                                ]
+                              }
+                            },
+                            "5日均线[20260724]": {
+                              "index_meta": {
+                                "index_number": "[2]"
+                              },
+                              "display_config": []
+                            },
+                            "股票代码": {
+                              "index_meta": [],
+                              "display_config": {
+                                "code": [
+                                  {
+                                    "comp_relation": "",
+                                    "comp_with": "",
+                                    "effect": ""
+                                  }
+                                ]
+                              }
+                            },
+                            "{(}行情收盘价[20260724]{-}5日均线[20260724]{)}": {
+                              "index_meta": {
+                                "index_number": "[1]-[2]",
+                                "description": {
+                                  "desc": "[1]-[2] = 行情收盘价[20260724]-5日均线[20260724]"
+                                }
+                              },
+                              "display_config": []
+                            },
+                            "所属同花顺行业": {
+                              "index_meta": [],
+                              "trace_config": {
+                                "1": [
+                                  {
+                                    "link_type": 1,
+                                    "bind_index": "所属同花顺行业",
+                                    "interaction_type": 1,
+                                    "label": "",
+                                    "event": 1,
+                                    "type": 1,
+                                    "params": {
+                                      "join_type": "2",
+                                      "query": "所属同花顺行业包含{$current$}"
+                                    }
+                                  }
+                                ],
+                                "2": [
+                                  {
+                                    "link_type": 1,
+                                    "bind_index": "所属同花顺行业",
+                                    "interaction_type": 2,
+                                    "label": "",
+                                    "event": 1,
+                                    "type": 1,
+                                    "params": {
+                                      "join_type": "1",
+                                      "query": "{$股票代码$} 所属同花顺行业"
+                                    }
+                                  }
+                                ]
+                              },
+                              "display_config": {
+                                "split": [
+                                  {
+                                    "comp_relation": "include",
+                                    "comp_with": "-",
+                                    "effect": "{\"num\":2,\"str\":\"@@ \",\"split_char\":\"-\"}"
+                                  }
+                                ],
+                                "link": [
+                                  {
+                                    "comp_relation": "include",
+                                    "comp_with": "*",
+                                    "effect": "/stockpick/search?typed=1&preParams=&ts=1&f=1&qs=1&selfsectsn=&querytype=&searchfilter=&tid=stockpick&w=%E6%89%80%E5%B1%9E%E5%90%8C%E8%8A%B1%E9%A1%BA%E8%A1%8C%E4%B8%9A%E5%8C%85%E5%90%AB(current)"
+                                  }
+                                ]
+                              }
+                            },
+                            "股票简称": {
+                              "index_meta": [],
+                              "trace_config": {
+                                "1": [
+                                  {
+                                    "link_type": 1,
+                                    "bind_index": "股票简称",
+                                    "interaction_type": 1,
+                                    "label": "",
+                                    "event": 1,
+                                    "type": 1,
+                                    "params": {
+                                      "join_type": "3",
+                                      "query": "{$current$}"
+                                    }
+                                  }
+                                ]
+                              },
+                              "display_config": {
+                                "link": [
+                                  {
+                                    "comp_relation": "include",
+                                    "comp_with": "*",
+                                    "effect": "/stockpick/search?tid=stockpick&qs=stockpick_diag&ts=1&w=(股票代码)"
+                                  }
+                                ],
+                                "align": [
+                                  {
+                                    "comp_relation": "",
+                                    "comp_with": "",
+                                    "effect": "center"
+                                  }
+                                ],
+                                "class": [
+                                  {
+                                    "comp_relation": "any",
+                                    "comp_with": "*",
+                                    "effect": "graph"
+                                  }
+                                ]
+                              }
+                            },
+                            "5日均线上移(条件说明)[20260724]": {
+                              "index_meta": [],
+                              "trace_config": {
+                                "1": [
+                                  {
+                                    "link_type": 11,
+                                    "bind_index": "5日均线上移(条件说明)[20260724]",
+                                    "interaction_type": 1,
+                                    "label": "",
+                                    "event": 2,
+                                    "type": 2,
+                                    "url": "//www.iwencai.com/indicator/?info={$code$}_{$market_code$}_{$股票简称$}_均线上移(条件说明)"
+                                  }
+                                ]
+                              },
+                              "display_config": []
+                            },
+                            "均价线[20260724]": {
+                              "index_meta": [],
+                              "display_config": []
+                            },
+                            "最高价:前复权[20260724]": {
+                              "index_meta": {
+                                "description": {
+                                  "desc": "前复权就是以除权前的价格为基准来对除权后的股票数据进行修复"
+                                },
+                                "label": "最高价:前复权"
+                              },
+                              "display_config": {
+                                "accuracy": [
+                                  {
+                                    "comp_relation": "any",
+                                    "comp_with": "*",
+                                    "effect": "2"
+                                  }
+                                ]
+                              }
+                            },
+                            "技术形态[20260724]": {
+                              "index_meta": [],
+                              "trace_config": {
+                                "1": [
+                                  {
+                                    "link_type": 1,
+                                    "bind_index": "技术形态[20260724]",
+                                    "interaction_type": 1,
+                                    "label": "",
+                                    "event": 1,
+                                    "type": 1,
+                                    "params": {
+                                      "join_type": "3",
+                                      "query": "{$current$}"
+                                    }
+                                  }
+                                ],
+                                "2": [
+                                  {
+                                    "link_type": 1,
+                                    "bind_index": "技术形态[20260724]",
+                                    "interaction_type": 2,
+                                    "label": "",
+                                    "event": 1,
+                                    "type": 1,
+                                    "params": {
+                                      "join_type": "1",
+                                      "query": "{$股票代码$} 技术形态"
+                                    }
+                                  }
+                                ]
+                              },
+                              "display_config": {
+                                "split": [
+                                  {
+                                    "comp_relation": "any",
+                                    "comp_with": "",
+                                    "effect": "  {\"num\":2,\"str\":\"【@@】\"}"
+                                  },
+                                  {
+                                    "comp_relation": "any",
+                                    "comp_with": ";",
+                                    "effect": "{\"num\":3,\"str\":\"【@@】\",\"split_char\":\"||\",\"more\":\"<a href=\\\"/stockpick/search?typed=1&preParams=&ts=1&f=1&qs=index_rewrite&selfsectsn=&querytype=&searchfilter=&tid=stockpick&w=(_stk-code_)+选股新动向\\\" target=\\\"_blank\\\">更多</a>\"}"
+                                  }
+                                ],
+                                "link": [
+                                  {
+                                    "comp_relation": "include",
+                                    "comp_with": "*",
+                                    "effect": "/stockpick/search?preParams=&ts=1&f=1&qs=zxmcxh&querytype=&tid=stockpick&w=(current)"
+                                  }
+                                ]
+                              }
+                            },
+                            "开盘价:前复权[20260724]": {
+                              "index_meta": {
+                                "description": {
+                                  "desc": "前复权就是以除权前的价格为基准来对除权后的股票数据进行修复"
+                                },
+                                "label": "开盘价:前复权"
+                              },
+                              "display_config": {
+                                "accuracy": [
+                                  {
+                                    "comp_relation": "any",
+                                    "comp_with": "*",
+                                    "effect": "2"
+                                  }
+                                ]
+                              }
+                            }
+                          },
+                          "query": "涨幅2%-5% 量比大于1 换手率3%-15% 流通市值30亿-150亿 股价在5日线上 股价在10日线上 5日均线向上 10日均线向上 分时均价线上 创当日新高",
+                          "ip": "10.201.168.25",
+                          "iwc_sort_info": {
+                            "sortKey": "{(}行情收盘价[20260724]{-}5日均线[20260724]{)}",
+                            "sortType": "desc",
+                            "sortFrom": "Original",
+                            "sortQuery": true
+                          },
+                          "row_count": 4,
+                          "token": "0ac9a81917850303483761897",
+                          "availableQuery": {
+                            "query": ""
+                          },
+                          "condition": "[{\"score\":0,\"node_type\":\"op\",\"chunkedResult\":\"涨幅2%-5% _&_量比大于1 _&_换手率3%-15% _&_流通市值30亿-150亿 _&_股价在5日线上 _&_股价在10日线上 _&_5日均线向上 _&_10日均线向上 _&_分时均价线上 _&_创当日新高\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"sonSize\":29,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"uiText\":\"涨跌幅>=2%且涨跌幅<=5%\",\"sonSize\":2,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"涨跌幅:前复权\",\"indexProperties\":[\"nodate 1\",\"交易日期 20260724\",\"(=0.02\"],\"source\":\"new_parser\",\"type\":\"index\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"(=\":\"0.02\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值(%)\",\"sonSize\":0},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"涨跌幅:前复权\",\"indexProperties\":[\"nodate 1\",\"交易日期 20260724\",\"<=0.05\"],\"source\":\"new_parser\",\"type\":\"index\",\"indexPropertiesMap\":{\"<=\":\"0.05\",\"交易日期\":\"20260724\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值(%)\",\"sonSize\":0},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"sonSize\":25,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"量比\",\"indexProperties\":[\"nodate 1\",\"交易日期 20260724\",\"(1\"],\"source\":\"new_parser\",\"type\":\"index\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"(\":\"1\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"uiText\":\"量比>1\",\"valueType\":\"_浮点型数值\",\"sonSize\":0},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"sonSize\":23,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"uiText\":\"换手率>=3%且换手率<=15%\",\"sonSize\":2,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"换手率\",\"indexProperties\":[\"nodate 1\",\"交易日期 20260724\",\"(=0.03\"],\"source\":\"new_parser\",\"type\":\"index\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"(=\":\"0.03\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值(%)\",\"sonSize\":0},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"换手率\",\"indexProperties\":[\"nodate 1\",\"交易日期 20260724\",\"<=0.15\"],\"source\":\"new_parser\",\"type\":\"index\",\"indexPropertiesMap\":{\"<=\":\"0.15\",\"交易日期\":\"20260724\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值(%)\",\"sonSize\":0},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"sonSize\":19,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"uiText\":\"a股市值(不含限售股)>=30亿元且a股市值(不含限售股)<=150亿元\",\"sonSize\":2,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"a股市值(不含限售股)\",\"indexProperties\":[\"nodate 1\",\"交易日期 20260724\",\"(=3000000000\"],\"source\":\"new_parser\",\"type\":\"index\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"(=\":\"3000000000\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值(元)\",\"sonSize\":0},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"a股市值(不含限售股)\",\"indexProperties\":[\"nodate 1\",\"交易日期 20260724\",\"<=15000000000\"],\"source\":\"new_parser\",\"type\":\"index\",\"indexPropertiesMap\":{\"<=\":\"15000000000\",\"交易日期\":\"20260724\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值(元)\",\"sonSize\":0},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"sonSize\":15,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"-\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"(0\",\"uiText\":\"行情收盘价>5日的均线\",\"sonSize\":2,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"行情收盘价\",\"indexProperties\":[\"nodate 1\",\"交易日期 20260724\"],\"source\":\"new_parser\",\"type\":\"tech\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值(元)\",\"sonSize\":0},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"均线\",\"indexProperties\":[\"nodate 1\",\"n日 5日\",\"交易日期 20260724\"],\"source\":\"new_parser\",\"type\":\"tech\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"n日\":\"5日\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值\",\"sonSize\":0},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"sonSize\":11,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"-\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"(0\",\"uiText\":\"行情收盘价>10日的均线\",\"sonSize\":2,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"行情收盘价\",\"indexProperties\":[\"nodate 1\",\"交易日期 20260724\"],\"source\":\"new_parser\",\"type\":\"tech\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值(元)\",\"sonSize\":0},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"均线\",\"indexProperties\":[\"nodate 1\",\"n日 10日\",\"交易日期 20260724\"],\"source\":\"new_parser\",\"type\":\"tech\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"n日\":\"10日\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值\",\"sonSize\":0},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"sonSize\":7,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"均线上移\",\"indexProperties\":[\"nodate 1\",\"n日 5日\",\"交易日期 20260724\",\"包含1\"],\"source\":\"new_parser\",\"type\":\"tech\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"n日\":\"5日\",\"包含\":\"1\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"uiText\":\"2026年07月24日5日线均线上移\",\"valueType\":\"_浮点型数值\",\"sonSize\":0},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"sonSize\":5,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"均线上移\",\"indexProperties\":[\"nodate 1\",\"n日 10日\",\"交易日期 20260724\",\"包含1\"],\"source\":\"new_parser\",\"type\":\"tech\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"n日\":\"10日\",\"包含\":\"1\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"uiText\":\"2026年07月24日10日线均线上移\",\"valueType\":\"_浮点型数值\",\"sonSize\":0},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"sonSize\":3,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"均价线\",\"indexProperties\":[\"nodate 1\",\"交易日期 20260724\"],\"source\":\"new_parser\",\"type\":\"tech\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"uiText\":\"均价线\",\"valueType\":\"_浮点型数值\",\"sonSize\":0},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"创新高\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"[起始交易日期 20260724,截止交易日期 20260724]\",\"uiText\":\"最高价:后复权创当日新高\",\"sonSize\":1,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"最高价:后复权\",\"indexProperties\":[\"nodate 1\",\"周期长度 1\",\"交易日期 20260724\"],\"source\":\"new_parser\",\"type\":\"index\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"周期长度\":\"1\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值(元)\",\"sonSize\":0}]",
+                          "techFormula": "datacoredatacoredatacoredatacoredatacoredatacoredatacoredatacoredatacoredatacoredatacoredatacoredatacoredatacorex-appid=iwc_nlp_dataquery_proxy_240&method=quote&datetime=16384(20260724-20260724)&fuquan=Q&append=Y&sortby=10&sorttype=select&codelist=17();33();22();151()&sortappend=Y&formula=period:16384;ID:7615;NAME:_3118974;source:select count(( h=hhv(h,1)),1)>=1;datacore",
+                          "chunks_info": "[\"涨跌幅>=2%且涨跌幅<=5% (131)\",\"量比>1 (625)\",\"换手率>=3%且换手率<=15% (1504)\",\"a股市值(不含限售股)>=30亿元且a股市值(不含限售股)<=150亿元 (2619)\",\"行情收盘价>5日的均线 (1255)\",\"行情收盘价>10日的均线 (929)\",\"2026年07月24日5日线均线上移 (651)\",\"2026年07月24日10日线均线上移 (921)\",\"均价线 (5526)\",\"最高价:后复权创当日新高 (5526)\"]",
+                          "detail_info": "[{\"股票代码\":{\"nextupdate\":\"20260726 21:06:00\",\"isValidData\":true,\"queryTime\":0,\"update\":\"0 6,16 1,2,3,8,21 * * *\"}},{\"股票简称\":{\"nextupdate\":\"20260726 21:06:00\",\"isValidData\":true,\"queryTime\":0,\"update\":\"0 6,16 1,2,3,8,21 * * *\"}},{\"最新价\":{\"nextupdate\":\"20260726 09:45:50\",\"isValidData\":true,\"queryTime\":0,\"update\":\"0/5 * * * * *\"}},{\"涨跌幅:前复权[20260724]\":{\"isValidData\":true,\"queryTime\":32}},{\"量比[20260724]\":{\"nextupdate\":\"20260726 09:48:50\",\"isValidData\":true,\"queryTime\":662,\"update\":\"50 48 4,7,9,10,15,16,17,20,23 * * *||50 30 4,7,9,10,15,16,17,20,23 * * *||0 15 9 * * *\"}},{\"换手率[20260724]\":{\"nextupdate\":\"20260727 00:00:00\",\"isValidData\":true,\"queryTime\":11,\"update\":\"0 0/30 * * * 1-5||0 15,18 9 * * 1-5\"}},{\"a股市值(不含限售股)[20260724]\":{\"nextupdate\":\"20260726 10:00:00\",\"isValidData\":true,\"queryTime\":25,\"update\":\"0 01,31 * * * *||0 00,30 * * * *||0 30 9 * * *\"}},{\"行情收盘价[20260724]\":{\"nextupdate\":\"20260727 00:01:00\",\"isValidData\":true,\"queryTime\":35,\"update\":\"0 * 9-11 * * 1-5||0 * 13-14 * * 1-5||0 1,30 0-8 * * 1-5||0 1,30 15-23 * * 1-5\"}},{\"5日均线[20260724]\":{\"nextupdate\":\"20260727 00:01:00\",\"isValidData\":true,\"queryTime\":24,\"update\":\"0 * 9-11 * * 1-5||0 * 13-14 * * 1-5||0 1,30 0-8 * * 1-5||0 1,30 15-23 * * 1-5\"}},{\"10日均线[20260724]\":{\"nextupdate\":\"20260727 00:01:00\",\"isValidData\":true,\"queryTime\":658,\"update\":\"0 * 9-11 * * 1-5||0 * 13-14 * * 1-5||0 1,30 0-8 * * 1-5||0 1,30 15-23 * * 1-5\"}},{\"{(}行情收盘价[20260724]{-}5日均线[20260724]{)}\":{\"nextupdate\":\"20260727 00:01:00\",\"isValidData\":true,\"queryTime\":-1,\"update\":\"0 * 13-14 * * 1-5||0 1,30 15-23 * * 1-5||0 1,30 0-8 * * 1-5||0 * 9-11 * * 1-5\"}},{\"{(}行情收盘价[20260724]{-}10日均线[20260724]{)}\":{\"nextupdate\":\"20260727 00:01:00\",\"isValidData\":true,\"queryTime\":-1,\"update\":\"0 * 13-14 * * 1-5||0 1,30 15-23 * * 1-5||0 1,30 0-8 * * 1-5||0 * 9-11 * * 1-5\"}},{\"5日均线上移(条件说明)[20260724]\":{\"isValidData\":true,\"queryTime\":-1}},{\"10日均线上移(条件说明)[20260724]\":{\"isValidData\":true,\"queryTime\":-1}},{\"均价线[20260724]\":{\"nextupdate\":\"20260727 00:01:00\",\"isValidData\":true,\"queryTime\":20,\"update\":\"0 * 9-11 * * 1-5||0 * 13-14 * * 1-5||0 1,30 0-8 * * 1-5||0 1,30 15-23 * * 1-5\"}},{\"最高价创新高(条件说明)[20260724]\":{\"isValidData\":true,\"queryTime\":-1}},{\"买入信号inter[20260724]\":{\"nextupdate\":\"20260726 16:20:00\",\"isValidData\":true,\"queryTime\":37,\"update\":\"0 20 16 * * *||0 20 21 * * *||0 15,18 9 * * 1-5||0 15 9 * * *\"}},{\"技术形态[20260724]\":{\"nextupdate\":\"20260726 16:20:00\",\"isValidData\":true,\"queryTime\":38,\"update\":\"0 20 16 * * *||0 20 21 * * *||0 15,18 9 * * 1-5||0 15 9 * * *\"}},{\"振幅[20260724]\":{\"nextupdate\":\"20260726 09:48:50\",\"isValidData\":true,\"queryTime\":16,\"update\":\"50 48 4,7,9,10,15,16,17,20,23 * * *||50 30 4,7,9,10,15,16,17,20,23 * * *||0 15 9 * * *\"}},{\"总市值[20260724]\":{\"nextupdate\":\"20260726 10:00:00\",\"isValidData\":true,\"queryTime\":30,\"update\":\"0 01,31 * * * *||0 00,30 * * * *\"}},{\"所属同花顺行业\":{\"nextupdate\":\"20260726 15:10:00\",\"isValidData\":true,\"queryTime\":14,\"update\":\"0 10 15,17,22 * * *\"}},{\"开盘价:前复权[20260724]\":{\"isValidData\":true,\"queryTime\":16}},{\"最高价:前复权[20260724]\":{\"isValidData\":true,\"queryTime\":15}}]",
+                          "data_permission": "{\"data_permission\":true,\"data_permission_prod\":null}",
+                          "status_msg": "ok",
+                          "filter_info": [
+                            {
+                              "filterValue": "2.0",
+                              "filterKeys": "涨跌幅:前复权[20260724]",
+                              "filterOper": ">="
+                            },
+                            {
+                              "filterValue": "5.0",
+                              "filterKeys": "涨跌幅:前复权[20260724]",
+                              "filterOper": "<="
+                            },
+                            {
+                              "filterValue": "1",
+                              "filterKeys": "量比[20260724]",
+                              "filterOper": ">"
+                            },
+                            {
+                              "filterValue": "3.0",
+                              "filterKeys": "换手率[20260724]",
+                              "filterOper": ">="
+                            },
+                            {
+                              "filterValue": "15.0",
+                              "filterKeys": "换手率[20260724]",
+                              "filterOper": "<="
+                            },
+                            {
+                              "filterValue": "3000000000",
+                              "filterKeys": "a股市值(不含限售股)[20260724]",
+                              "filterOper": ">="
+                            },
+                            {
+                              "filterValue": "15000000000",
+                              "filterKeys": "a股市值(不含限售股)[20260724]",
+                              "filterOper": "<="
+                            }
+                          ],
+                          "code_count": 4
+                        },
+                        "limit": 100,
+                        "json": "[{\"score\":0,\"node_type\":\"op\",\"chunkedResult\":\"涨幅2%-5% _&_量比大于1 _&_换手率3%-15% _&_流通市值30亿-150亿 _&_股价在5日线上 _&_股价在10日线上 _&_5日均线向上 _&_10日均线向上 _&_分时均价线上 _&_创当日新高\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"sonSize\":29,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"uiText\":\"涨跌幅>=2%且涨跌幅<=5%\",\"sonSize\":2,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"涨跌幅:前复权\",\"indexProperties\":[\"nodate 1\",\"交易日期 20260724\",\"(=0.02\"],\"source\":\"new_parser\",\"type\":\"index\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"(=\":\"0.02\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值(%)\",\"sonSize\":0},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"涨跌幅:前复权\",\"indexProperties\":[\"nodate 1\",\"交易日期 20260724\",\"<=0.05\"],\"source\":\"new_parser\",\"type\":\"index\",\"indexPropertiesMap\":{\"<=\":\"0.05\",\"交易日期\":\"20260724\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值(%)\",\"sonSize\":0},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"sonSize\":25,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"量比\",\"indexProperties\":[\"nodate 1\",\"交易日期 20260724\",\"(1\"],\"source\":\"new_parser\",\"type\":\"index\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"(\":\"1\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"uiText\":\"量比>1\",\"valueType\":\"_浮点型数值\",\"sonSize\":0},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"sonSize\":23,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"uiText\":\"换手率>=3%且换手率<=15%\",\"sonSize\":2,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"换手率\",\"indexProperties\":[\"nodate 1\",\"交易日期 20260724\",\"(=0.03\"],\"source\":\"new_parser\",\"type\":\"index\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"(=\":\"0.03\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值(%)\",\"sonSize\":0},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"换手率\",\"indexProperties\":[\"nodate 1\",\"交易日期 20260724\",\"<=0.15\"],\"source\":\"new_parser\",\"type\":\"index\",\"indexPropertiesMap\":{\"<=\":\"0.15\",\"交易日期\":\"20260724\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值(%)\",\"sonSize\":0},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"sonSize\":19,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"uiText\":\"a股市值(不含限售股)>=30亿元且a股市值(不含限售股)<=150亿元\",\"sonSize\":2,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"a股市值(不含限售股)\",\"indexProperties\":[\"nodate 1\",\"交易日期 20260724\",\"(=3000000000\"],\"source\":\"new_parser\",\"type\":\"index\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"(=\":\"3000000000\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值(元)\",\"sonSize\":0},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"a股市值(不含限售股)\",\"indexProperties\":[\"nodate 1\",\"交易日期 20260724\",\"<=15000000000\"],\"source\":\"new_parser\",\"type\":\"index\",\"indexPropertiesMap\":{\"<=\":\"15000000000\",\"交易日期\":\"20260724\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值(元)\",\"sonSize\":0},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"sonSize\":15,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"-\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"(0\",\"uiText\":\"行情收盘价>5日的均线\",\"sonSize\":2,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"行情收盘价\",\"indexProperties\":[\"nodate 1\",\"交易日期 20260724\"],\"source\":\"new_parser\",\"type\":\"tech\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值(元)\",\"sonSize\":0},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"均线\",\"indexProperties\":[\"nodate 1\",\"n日 5日\",\"交易日期 20260724\"],\"source\":\"new_parser\",\"type\":\"tech\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"n日\":\"5日\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值\",\"sonSize\":0},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"sonSize\":11,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"-\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"(0\",\"uiText\":\"行情收盘价>10日的均线\",\"sonSize\":2,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"行情收盘价\",\"indexProperties\":[\"nodate 1\",\"交易日期 20260724\"],\"source\":\"new_parser\",\"type\":\"tech\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值(元)\",\"sonSize\":0},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"均线\",\"indexProperties\":[\"nodate 1\",\"n日 10日\",\"交易日期 20260724\"],\"source\":\"new_parser\",\"type\":\"tech\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"n日\":\"10日\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值\",\"sonSize\":0},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"sonSize\":7,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"均线上移\",\"indexProperties\":[\"nodate 1\",\"n日 5日\",\"交易日期 20260724\",\"包含1\"],\"source\":\"new_parser\",\"type\":\"tech\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"n日\":\"5日\",\"包含\":\"1\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"uiText\":\"2026年07月24日5日线均线上移\",\"valueType\":\"_浮点型数值\",\"sonSize\":0},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"sonSize\":5,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"均线上移\",\"indexProperties\":[\"nodate 1\",\"n日 10日\",\"交易日期 20260724\",\"包含1\"],\"source\":\"new_parser\",\"type\":\"tech\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"n日\":\"10日\",\"包含\":\"1\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"uiText\":\"2026年07月24日10日线均线上移\",\"valueType\":\"_浮点型数值\",\"sonSize\":0},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"sonSize\":3,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"均价线\",\"indexProperties\":[\"nodate 1\",\"交易日期 20260724\"],\"source\":\"new_parser\",\"type\":\"tech\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"uiText\":\"均价线\",\"valueType\":\"_浮点型数值\",\"sonSize\":0},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"创新高\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"[起始交易日期 20260724,截止交易日期 20260724]\",\"uiText\":\"最高价:后复权创当日新高\",\"sonSize\":1,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"最高价:后复权\",\"indexProperties\":[\"nodate 1\",\"周期长度 1\",\"交易日期 20260724\"],\"source\":\"new_parser\",\"type\":\"index\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"周期长度\":\"1\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值(元)\",\"sonSize\":0}]",
+                        "page": 1,
+                        "time": "20260724 0000",
+                        "urp_sort_way": "desc",
+                        "add_index": "1",
+                        "addcolumnslimit": "1",
+                        "uuids": "24087"
+                      }
+                    },
+                    "puuid": 24087,
+                    "config": {
+                      "other_info": {
+                        "footer_info": {
+                          "title": "查看更多",
+                          "url": "/gateway/urp/v7/landing/getDataList?query=%E6%B6%A8%E5%B9%852%25-5%25%20%E9%87%8F%E6%AF%94%E5%A4%A7%E4%BA%8E1%20%E6%8D%A2%E6%89%8B%E7%8E%873%25-15%25%20%E6%B5%81%E9%80%9A%E5%B8%82%E5%80%BC30%E4%BA%BF-150%E4%BA%BF%20%E8%82%A1%E4%BB%B7%E5%9C%A85%E6%97%A5%E7%BA%BF%E4%B8%8A%20%E8%82%A1%E4%BB%B7%E5%9C%A810%E6%97%A5%E7%BA%BF%E4%B8%8A%205%E6%97%A5%E5%9D%87%E7%BA%BF%E5%90%91%E4%B8%8A%2010%E6%97%A5%E5%9D%87%E7%BA%BF%E5%90%91%E4%B8%8A%20%E5%88%86%E6%97%B6%E5%9D%87%E4%BB%B7%E7%BA%BF%E4%B8%8A%20%E5%88%9B%E5%BD%93%E6%97%A5%E6%96%B0%E9%AB%98&urp_sort_way=desc&urp_sort_index=&page=1&perpage=30&addheaderindexes=&condition=%5B%7B%22score%22%3A0%2C%22node_type%22%3A%22op%22%2C%22chunkedResult%22%3A%22%E6%B6%A8%E5%B9%852%25-5%25%20_%26_%E9%87%8F%E6%AF%94%E5%A4%A7%E4%BA%8E1%20_%26_%E6%8D%A2%E6%89%8B%E7%8E%873%25-15%25%20_%26_%E6%B5%81%E9%80%9A%E5%B8%82%E5%80%BC30%E4%BA%BF-150%E4%BA%BF%20_%26_%E8%82%A1%E4%BB%B7%E5%9C%A85%E6%97%A5%E7%BA%BF%E4%B8%8A%20_%26_%E8%82%A1%E4%BB%B7%E5%9C%A810%E6%97%A5%E7%BA%BF%E4%B8%8A%20_%26_5%E6%97%A5%E5%9D%87%E7%BA%BF%E5%90%91%E4%B8%8A%20_%26_10%E6%97%A5%E5%9D%87%E7%BA%BF%E5%90%91%E4%B8%8A%20_%26_%E5%88%86%E6%97%B6%E5%9D%87%E4%BB%B7%E7%BA%BF%E4%B8%8A%20_%26_%E5%88%9B%E5%BD%93%E6%97%A5%E6%96%B0%E9%AB%98%22%2C%22children%22%3A%5B%5D%2C%22opName%22%3A%22and%22%2C%22ci%22%3Afalse%2C%22opPropertiesMap%22%3A%7B%7D%2C%22opProperty%22%3A%22%22%2C%22sonSize%22%3A29%2C%22opPropertyMap%22%3A%7B%7D%2C%22source%22%3A%22new_parser%22%7D%2C%7B%22score%22%3A0%2C%22node_type%22%3A%22op%22%2C%22children%22%3A%5B%5D%2C%22opName%22%3A%22and%22%2C%22ci%22%3Afalse%2C%22opPropertiesMap%22%3A%7B%7D%2C%22opProperty%22%3A%22%22%2C%22uiText%22%3A%22%E6%B6%A8%E8%B7%8C%E5%B9%85%3E%3D2%25%E4%B8%94%E6%B6%A8%E8%B7%8C%E5%B9%85%3C%3D5%25%22%2C%22sonSize%22%3A2%2C%22opPropertyMap%22%3A%7B%7D%2C%22source%22%3A%22new_parser%22%7D%2C%7B%22dateText%22%3A%22%22%2C%22ci%22%3Afalse%2C%22indexName%22%3A%22%E6%B6%A8%E8%B7%8C%E5%B9%85%3A%E5%89%8D%E5%A4%8D%E6%9D%83%22%2C%22indexProperties%22%3A%5B%22nodate%201%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%2020260724%22%2C%22%28%3D0.02%22%5D%2C%22source%22%3A%22new_parser%22%2C%22type%22%3A%22index%22%2C%22indexPropertiesMap%22%3A%7B%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%3A%2220260724%22%2C%22%28%3D%22%3A%220.02%22%2C%22nodate%22%3A%221%22%7D%2C%22reportType%22%3A%22TRADE_DAILY%22%2C%22score%22%3A0%2C%22node_type%22%3A%22index%22%2C%22dateType%22%3A%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%2C%22valueType%22%3A%22_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%80%BC%28%25%29%22%2C%22sonSize%22%3A0%7D%2C%7B%22dateText%22%3A%22%22%2C%22ci%22%3Afalse%2C%22indexName%22%3A%22%E6%B6%A8%E8%B7%8C%E5%B9%85%3A%E5%89%8D%E5%A4%8D%E6%9D%83%22%2C%22indexProperties%22%3A%5B%22nodate%201%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%2020260724%22%2C%22%3C%3D0.05%22%5D%2C%22source%22%3A%22new_parser%22%2C%22type%22%3A%22index%22%2C%22indexPropertiesMap%22%3A%7B%22%3C%3D%22%3A%220.05%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%3A%2220260724%22%2C%22nodate%22%3A%221%22%7D%2C%22reportType%22%3A%22TRADE_DAILY%22%2C%22score%22%3A0%2C%22node_type%22%3A%22index%22%2C%22dateType%22%3A%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%2C%22valueType%22%3A%22_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%80%BC%28%25%29%22%2C%22sonSize%22%3A0%7D%2C%7B%22score%22%3A0%2C%22node_type%22%3A%22op%22%2C%22children%22%3A%5B%5D%2C%22opName%22%3A%22and%22%2C%22ci%22%3Afalse%2C%22opPropertiesMap%22%3A%7B%7D%2C%22opProperty%22%3A%22%22%2C%22sonSize%22%3A25%2C%22opPropertyMap%22%3A%7B%7D%2C%22source%22%3A%22new_parser%22%7D%2C%7B%22dateText%22%3A%22%22%2C%22ci%22%3Afalse%2C%22indexName%22%3A%22%E9%87%8F%E6%AF%94%22%2C%22indexProperties%22%3A%5B%22nodate%201%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%2020260724%22%2C%22%281%22%5D%2C%22source%22%3A%22new_parser%22%2C%22type%22%3A%22index%22%2C%22indexPropertiesMap%22%3A%7B%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%3A%2220260724%22%2C%22%28%22%3A%221%22%2C%22nodate%22%3A%221%22%7D%2C%22reportType%22%3A%22TRADE_DAILY%22%2C%22score%22%3A0%2C%22node_type%22%3A%22index%22%2C%22dateType%22%3A%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%2C%22uiText%22%3A%22%E9%87%8F%E6%AF%94%3E1%22%2C%22valueType%22%3A%22_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%80%BC%22%2C%22sonSize%22%3A0%7D%2C%7B%22score%22%3A0%2C%22node_type%22%3A%22op%22%2C%22children%22%3A%5B%5D%2C%22opName%22%3A%22and%22%2C%22ci%22%3Afalse%2C%22opPropertiesMap%22%3A%7B%7D%2C%22opProperty%22%3A%22%22%2C%22sonSize%22%3A23%2C%22opPropertyMap%22%3A%7B%7D%2C%22source%22%3A%22new_parser%22%7D%2C%7B%22score%22%3A0%2C%22node_type%22%3A%22op%22%2C%22children%22%3A%5B%5D%2C%22opName%22%3A%22and%22%2C%22ci%22%3Afalse%2C%22opPropertiesMap%22%3A%7B%7D%2C%22opProperty%22%3A%22%22%2C%22uiText%22%3A%22%E6%8D%A2%E6%89%8B%E7%8E%87%3E%3D3%25%E4%B8%94%E6%8D%A2%E6%89%8B%E7%8E%87%3C%3D15%25%22%2C%22sonSize%22%3A2%2C%22opPropertyMap%22%3A%7B%7D%2C%22source%22%3A%22new_parser%22%7D%2C%7B%22dateText%22%3A%22%22%2C%22ci%22%3Afalse%2C%22indexName%22%3A%22%E6%8D%A2%E6%89%8B%E7%8E%87%22%2C%22indexProperties%22%3A%5B%22nodate%201%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%2020260724%22%2C%22%28%3D0.03%22%5D%2C%22source%22%3A%22new_parser%22%2C%22type%22%3A%22index%22%2C%22indexPropertiesMap%22%3A%7B%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%3A%2220260724%22%2C%22%28%3D%22%3A%220.03%22%2C%22nodate%22%3A%221%22%7D%2C%22reportType%22%3A%22TRADE_DAILY%22%2C%22score%22%3A0%2C%22node_type%22%3A%22index%22%2C%22dateType%22%3A%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%2C%22valueType%22%3A%22_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%80%BC%28%25%29%22%2C%22sonSize%22%3A0%7D%2C%7B%22dateText%22%3A%22%22%2C%22ci%22%3Afalse%2C%22indexName%22%3A%22%E6%8D%A2%E6%89%8B%E7%8E%87%22%2C%22indexProperties%22%3A%5B%22nodate%201%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%2020260724%22%2C%22%3C%3D0.15%22%5D%2C%22source%22%3A%22new_parser%22%2C%22type%22%3A%22index%22%2C%22indexPropertiesMap%22%3A%7B%22%3C%3D%22%3A%220.15%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%3A%2220260724%22%2C%22nodate%22%3A%221%22%7D%2C%22reportType%22%3A%22TRADE_DAILY%22%2C%22score%22%3A0%2C%22node_type%22%3A%22index%22%2C%22dateType%22%3A%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%2C%22valueType%22%3A%22_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%80%BC%28%25%29%22%2C%22sonSize%22%3A0%7D%2C%7B%22score%22%3A0%2C%22node_type%22%3A%22op%22%2C%22children%22%3A%5B%5D%2C%22opName%22%3A%22and%22%2C%22ci%22%3Afalse%2C%22opPropertiesMap%22%3A%7B%7D%2C%22opProperty%22%3A%22%22%2C%22sonSize%22%3A19%2C%22opPropertyMap%22%3A%7B%7D%2C%22source%22%3A%22new_parser%22%7D%2C%7B%22score%22%3A0%2C%22node_type%22%3A%22op%22%2C%22children%22%3A%5B%5D%2C%22opName%22%3A%22and%22%2C%22ci%22%3Afalse%2C%22opPropertiesMap%22%3A%7B%7D%2C%22opProperty%22%3A%22%22%2C%22uiText%22%3A%22a%E8%82%A1%E5%B8%82%E5%80%BC%28%E4%B8%8D%E5%90%AB%E9%99%90%E5%94%AE%E8%82%A1%29%3E%3D30%E4%BA%BF%E5%85%83%E4%B8%94a%E8%82%A1%E5%B8%82%E5%80%BC%28%E4%B8%8D%E5%90%AB%E9%99%90%E5%94%AE%E8%82%A1%29%3C%3D150%E4%BA%BF%E5%85%83%22%2C%22sonSize%22%3A2%2C%22opPropertyMap%22%3A%7B%7D%2C%22source%22%3A%22new_parser%22%7D%2C%7B%22dateText%22%3A%22%22%2C%22ci%22%3Afalse%2C%22indexName%22%3A%22a%E8%82%A1%E5%B8%82%E5%80%BC%28%E4%B8%8D%E5%90%AB%E9%99%90%E5%94%AE%E8%82%A1%29%22%2C%22indexProperties%22%3A%5B%22nodate%201%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%2020260724%22%2C%22%28%3D3000000000%22%5D%2C%22source%22%3A%22new_parser%22%2C%22type%22%3A%22index%22%2C%22indexPropertiesMap%22%3A%7B%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%3A%2220260724%22%2C%22%28%3D%22%3A%223000000000%22%2C%22nodate%22%3A%221%22%7D%2C%22reportType%22%3A%22TRADE_DAILY%22%2C%22score%22%3A0%2C%22node_type%22%3A%22index%22%2C%22dateType%22%3A%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%2C%22valueType%22%3A%22_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%80%BC%28%E5%85%83%29%22%2C%22sonSize%22%3A0%7D%2C%7B%22dateText%22%3A%22%22%2C%22ci%22%3Afalse%2C%22indexName%22%3A%22a%E8%82%A1%E5%B8%82%E5%80%BC%28%E4%B8%8D%E5%90%AB%E9%99%90%E5%94%AE%E8%82%A1%29%22%2C%22indexProperties%22%3A%5B%22nodate%201%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%2020260724%22%2C%22%3C%3D15000000000%22%5D%2C%22source%22%3A%22new_parser%22%2C%22type%22%3A%22index%22%2C%22indexPropertiesMap%22%3A%7B%22%3C%3D%22%3A%2215000000000%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%3A%2220260724%22%2C%22nodate%22%3A%221%22%7D%2C%22reportType%22%3A%22TRADE_DAILY%22%2C%22score%22%3A0%2C%22node_type%22%3A%22index%22%2C%22dateType%22%3A%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%2C%22valueType%22%3A%22_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%80%BC%28%E5%85%83%29%22%2C%22sonSize%22%3A0%7D%2C%7B%22score%22%3A0%2C%22node_type%22%3A%22op%22%2C%22children%22%3A%5B%5D%2C%22opName%22%3A%22and%22%2C%22ci%22%3Afalse%2C%22opPropertiesMap%22%3A%7B%7D%2C%22opProperty%22%3A%22%22%2C%22sonSize%22%3A15%2C%22opPropertyMap%22%3A%7B%7D%2C%22source%22%3A%22new_parser%22%7D%2C%7B%22score%22%3A0%2C%22node_type%22%3A%22op%22%2C%22children%22%3A%5B%5D%2C%22opName%22%3A%22-%22%2C%22ci%22%3Afalse%2C%22opPropertiesMap%22%3A%7B%7D%2C%22opProperty%22%3A%22%280%22%2C%22uiText%22%3A%22%E8%A1%8C%E6%83%85%E6%94%B6%E7%9B%98%E4%BB%B7%3E5%E6%97%A5%E7%9A%84%E5%9D%87%E7%BA%BF%22%2C%22sonSize%22%3A2%2C%22opPropertyMap%22%3A%7B%7D%2C%22source%22%3A%22new_parser%22%7D%2C%7B%22dateText%22%3A%22%22%2C%22ci%22%3Afalse%2C%22indexName%22%3A%22%E8%A1%8C%E6%83%85%E6%94%B6%E7%9B%98%E4%BB%B7%22%2C%22indexProperties%22%3A%5B%22nodate%201%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%2020260724%22%5D%2C%22source%22%3A%22new_parser%22%2C%22type%22%3A%22tech%22%2C%22indexPropertiesMap%22%3A%7B%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%3A%2220260724%22%2C%22nodate%22%3A%221%22%7D%2C%22reportType%22%3A%22TRADE_DAILY%22%2C%22score%22%3A0%2C%22node_type%22%3A%22index%22%2C%22dateType%22%3A%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%2C%22valueType%22%3A%22_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%80%BC%28%E5%85%83%29%22%2C%22sonSize%22%3A0%7D%2C%7B%22dateText%22%3A%22%22%2C%22ci%22%3Afalse%2C%22indexName%22%3A%22%E5%9D%87%E7%BA%BF%22%2C%22indexProperties%22%3A%5B%22nodate%201%22%2C%22n%E6%97%A5%205%E6%97%A5%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%2020260724%22%5D%2C%22source%22%3A%22new_parser%22%2C%22type%22%3A%22tech%22%2C%22indexPropertiesMap%22%3A%7B%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%3A%2220260724%22%2C%22n%E6%97%A5%22%3A%225%E6%97%A5%22%2C%22nodate%22%3A%221%22%7D%2C%22reportType%22%3A%22TRADE_DAILY%22%2C%22score%22%3A0%2C%22node_type%22%3A%22index%22%2C%22dateType%22%3A%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%2C%22valueType%22%3A%22_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%80%BC%22%2C%22sonSize%22%3A0%7D%2C%7B%22score%22%3A0%2C%22node_type%22%3A%22op%22%2C%22children%22%3A%5B%5D%2C%22opName%22%3A%22and%22%2C%22ci%22%3Afalse%2C%22opPropertiesMap%22%3A%7B%7D%2C%22opProperty%22%3A%22%22%2C%22sonSize%22%3A11%2C%22opPropertyMap%22%3A%7B%7D%2C%22source%22%3A%22new_parser%22%7D%2C%7B%22score%22%3A0%2C%22node_type%22%3A%22op%22%2C%22children%22%3A%5B%5D%2C%22opName%22%3A%22-%22%2C%22ci%22%3Afalse%2C%22opPropertiesMap%22%3A%7B%7D%2C%22opProperty%22%3A%22%280%22%2C%22uiText%22%3A%22%E8%A1%8C%E6%83%85%E6%94%B6%E7%9B%98%E4%BB%B7%3E10%E6%97%A5%E7%9A%84%E5%9D%87%E7%BA%BF%22%2C%22sonSize%22%3A2%2C%22opPropertyMap%22%3A%7B%7D%2C%22source%22%3A%22new_parser%22%7D%2C%7B%22dateText%22%3A%22%22%2C%22ci%22%3Afalse%2C%22indexName%22%3A%22%E8%A1%8C%E6%83%85%E6%94%B6%E7%9B%98%E4%BB%B7%22%2C%22indexProperties%22%3A%5B%22nodate%201%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%2020260724%22%5D%2C%22source%22%3A%22new_parser%22%2C%22type%22%3A%22tech%22%2C%22indexPropertiesMap%22%3A%7B%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%3A%2220260724%22%2C%22nodate%22%3A%221%22%7D%2C%22reportType%22%3A%22TRADE_DAILY%22%2C%22score%22%3A0%2C%22node_type%22%3A%22index%22%2C%22dateType%22%3A%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%2C%22valueType%22%3A%22_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%80%BC%28%E5%85%83%29%22%2C%22sonSize%22%3A0%7D%2C%7B%22dateText%22%3A%22%22%2C%22ci%22%3Afalse%2C%22indexName%22%3A%22%E5%9D%87%E7%BA%BF%22%2C%22indexProperties%22%3A%5B%22nodate%201%22%2C%22n%E6%97%A5%2010%E6%97%A5%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%2020260724%22%5D%2C%22source%22%3A%22new_parser%22%2C%22type%22%3A%22tech%22%2C%22indexPropertiesMap%22%3A%7B%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%3A%2220260724%22%2C%22n%E6%97%A5%22%3A%2210%E6%97%A5%22%2C%22nodate%22%3A%221%22%7D%2C%22reportType%22%3A%22TRADE_DAILY%22%2C%22score%22%3A0%2C%22node_type%22%3A%22index%22%2C%22dateType%22%3A%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%2C%22valueType%22%3A%22_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%80%BC%22%2C%22sonSize%22%3A0%7D%2C%7B%22score%22%3A0%2C%22node_type%22%3A%22op%22%2C%22children%22%3A%5B%5D%2C%22opName%22%3A%22and%22%2C%22ci%22%3Afalse%2C%22opPropertiesMap%22%3A%7B%7D%2C%22opProperty%22%3A%22%22%2C%22sonSize%22%3A7%2C%22opPropertyMap%22%3A%7B%7D%2C%22source%22%3A%22new_parser%22%7D%2C%7B%22dateText%22%3A%22%22%2C%22ci%22%3Afalse%2C%22indexName%22%3A%22%E5%9D%87%E7%BA%BF%E4%B8%8A%E7%A7%BB%22%2C%22indexProperties%22%3A%5B%22nodate%201%22%2C%22n%E6%97%A5%205%E6%97%A5%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%2020260724%22%2C%22%E5%8C%85%E5%90%AB1%22%5D%2C%22source%22%3A%22new_parser%22%2C%22type%22%3A%22tech%22%2C%22indexPropertiesMap%22%3A%7B%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%3A%2220260724%22%2C%22n%E6%97%A5%22%3A%225%E6%97%A5%22%2C%22%E5%8C%85%E5%90%AB%22%3A%221%22%2C%22nodate%22%3A%221%22%7D%2C%22reportType%22%3A%22TRADE_DAILY%22%2C%22score%22%3A0%2C%22node_type%22%3A%22index%22%2C%22dateType%22%3A%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%2C%22uiText%22%3A%222026%E5%B9%B407%E6%9C%8824%E6%97%A55%E6%97%A5%E7%BA%BF%E5%9D%87%E7%BA%BF%E4%B8%8A%E7%A7%BB%22%2C%22valueType%22%3A%22_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%80%BC%22%2C%22sonSize%22%3A0%7D%2C%7B%22score%22%3A0%2C%22node_type%22%3A%22op%22%2C%22children%22%3A%5B%5D%2C%22opName%22%3A%22and%22%2C%22ci%22%3Afalse%2C%22opPropertiesMap%22%3A%7B%7D%2C%22opProperty%22%3A%22%22%2C%22sonSize%22%3A5%2C%22opPropertyMap%22%3A%7B%7D%2C%22source%22%3A%22new_parser%22%7D%2C%7B%22dateText%22%3A%22%22%2C%22ci%22%3Afalse%2C%22indexName%22%3A%22%E5%9D%87%E7%BA%BF%E4%B8%8A%E7%A7%BB%22%2C%22indexProperties%22%3A%5B%22nodate%201%22%2C%22n%E6%97%A5%2010%E6%97%A5%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%2020260724%22%2C%22%E5%8C%85%E5%90%AB1%22%5D%2C%22source%22%3A%22new_parser%22%2C%22type%22%3A%22tech%22%2C%22indexPropertiesMap%22%3A%7B%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%3A%2220260724%22%2C%22n%E6%97%A5%22%3A%2210%E6%97%A5%22%2C%22%E5%8C%85%E5%90%AB%22%3A%221%22%2C%22nodate%22%3A%221%22%7D%2C%22reportType%22%3A%22TRADE_DAILY%22%2C%22score%22%3A0%2C%22node_type%22%3A%22index%22%2C%22dateType%22%3A%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%2C%22uiText%22%3A%222026%E5%B9%B407%E6%9C%8824%E6%97%A510%E6%97%A5%E7%BA%BF%E5%9D%87%E7%BA%BF%E4%B8%8A%E7%A7%BB%22%2C%22valueType%22%3A%22_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%80%BC%22%2C%22sonSize%22%3A0%7D%2C%7B%22score%22%3A0%2C%22node_type%22%3A%22op%22%2C%22children%22%3A%5B%5D%2C%22opName%22%3A%22and%22%2C%22ci%22%3Afalse%2C%22opPropertiesMap%22%3A%7B%7D%2C%22opProperty%22%3A%22%22%2C%22sonSize%22%3A3%2C%22opPropertyMap%22%3A%7B%7D%2C%22source%22%3A%22new_parser%22%7D%2C%7B%22dateText%22%3A%22%22%2C%22ci%22%3Afalse%2C%22indexName%22%3A%22%E5%9D%87%E4%BB%B7%E7%BA%BF%22%2C%22indexProperties%22%3A%5B%22nodate%201%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%2020260724%22%5D%2C%22source%22%3A%22new_parser%22%2C%22type%22%3A%22tech%22%2C%22indexPropertiesMap%22%3A%7B%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%3A%2220260724%22%2C%22nodate%22%3A%221%22%7D%2C%22reportType%22%3A%22TRADE_DAILY%22%2C%22score%22%3A0%2C%22node_type%22%3A%22index%22%2C%22dateType%22%3A%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%2C%22uiText%22%3A%22%E5%9D%87%E4%BB%B7%E7%BA%BF%22%2C%22valueType%22%3A%22_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%80%BC%22%2C%22sonSize%22%3A0%7D%2C%7B%22score%22%3A0%2C%22node_type%22%3A%22op%22%2C%22children%22%3A%5B%5D%2C%22opName%22%3A%22%E5%88%9B%E6%96%B0%E9%AB%98%22%2C%22ci%22%3Afalse%2C%22opPropertiesMap%22%3A%7B%7D%2C%22opProperty%22%3A%22%5B%E8%B5%B7%E5%A7%8B%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%2020260724%2C%E6%88%AA%E6%AD%A2%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%2020260724%5D%22%2C%22uiText%22%3A%22%E6%9C%80%E9%AB%98%E4%BB%B7%3A%E5%90%8E%E5%A4%8D%E6%9D%83%E5%88%9B%E5%BD%93%E6%97%A5%E6%96%B0%E9%AB%98%22%2C%22sonSize%22%3A1%2C%22opPropertyMap%22%3A%7B%7D%2C%22source%22%3A%22new_parser%22%7D%2C%7B%22dateText%22%3A%22%22%2C%22ci%22%3Afalse%2C%22indexName%22%3A%22%E6%9C%80%E9%AB%98%E4%BB%B7%3A%E5%90%8E%E5%A4%8D%E6%9D%83%22%2C%22indexProperties%22%3A%5B%22nodate%201%22%2C%22%E5%91%A8%E6%9C%9F%E9%95%BF%E5%BA%A6%201%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%2020260724%22%5D%2C%22source%22%3A%22new_parser%22%2C%22type%22%3A%22index%22%2C%22indexPropertiesMap%22%3A%7B%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%3A%2220260724%22%2C%22%E5%91%A8%E6%9C%9F%E9%95%BF%E5%BA%A6%22%3A%221%22%2C%22nodate%22%3A%221%22%7D%2C%22reportType%22%3A%22TRADE_DAILY%22%2C%22score%22%3A0%2C%22node_type%22%3A%22index%22%2C%22dateType%22%3A%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%2C%22valueType%22%3A%22_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%80%BC%28%E5%85%83%29%22%2C%22sonSize%22%3A0%7D%5D&codelist=&indexnamelimit=&logid=b7590df654d8ee42ce84ba7b098abffd&ret=json_all&sessionid=b7590df654d8ee42ce84ba7b098abffd&source=Ths_iwencai_Xuangu&date_range%5B0%5D=20260724&date_range%5B1%5D=20260724&iwc_token=0ac9a81917850303483761897&urp_use_sort=1&user_id=Ths_iwencai_Xuangu_7y3bopeyrdbi8ouk15jzjcd48igcc5ms&uuids%5B0%5D=24087&query_type=stock&comp_id=6933312&business_cat=soniu&uuid=24087"
+                        }
+                      },
+                      "display": [],
+                      "render": {
+                        "leftNum": "2",
+                        "merge": {
+                          "股票简称": {
+                            "keys": [
+                              "股票代码"
+                            ],
+                            "title": "股票"
+                          }
+                        },
+                        "exclude": [
+                          "股票代码"
+                        ]
+                      }
+                    },
+                    "uuid": "990d4e73b94147348243fe59e2289a46",
+                    "ori_index": 1,
+                    "cid": 6933312
+                  }
+                ],
+                "status_code": "0",
+                "request_params": "trace_debug=0&business=1&source_type=ths_company&sessionid=b7590df654d8ee42ce84ba7b098abffd&source=Ths_iwencai_Xuangu&query_type=stock&userid=Ths_iwencai_Xuangu_7y3bopeyrdbi8ouk15jzjcd48igcc5ms&qid=b7590df654d8ee42ce84ba7b098abffd&condition=%5B%7B%22score%22%3A0%2C%22node_type%22%3A%22op%22%2C%22chunkedResult%22%3A%22%E6%B6%A8%E5%B9%852%25-5%25+_%26_%E9%87%8F%E6%AF%94%E5%A4%A7%E4%BA%8E1+_%26_%E6%8D%A2%E6%89%8B%E7%8E%873%25-15%25+_%26_%E6%B5%81%E9%80%9A%E5%B8%82%E5%80%BC30%E4%BA%BF-150%E4%BA%BF+_%26_%E8%82%A1%E4%BB%B7%E5%9C%A85%E6%97%A5%E7%BA%BF%E4%B8%8A+_%26_%E8%82%A1%E4%BB%B7%E5%9C%A810%E6%97%A5%E7%BA%BF%E4%B8%8A+_%26_5%E6%97%A5%E5%9D%87%E7%BA%BF%E5%90%91%E4%B8%8A+_%26_10%E6%97%A5%E5%9D%87%E7%BA%BF%E5%90%91%E4%B8%8A+_%26_%E5%88%86%E6%97%B6%E5%9D%87%E4%BB%B7%E7%BA%BF%E4%B8%8A+_%26_%E5%88%9B%E5%BD%93%E6%97%A5%E6%96%B0%E9%AB%98%22%2C%22children%22%3A%5B%5D%2C%22opName%22%3A%22and%22%2C%22ci%22%3Afalse%2C%22opPropertiesMap%22%3A%7B%7D%2C%22opProperty%22%3A%22%22%2C%22sonSize%22%3A29%2C%22opPropertyMap%22%3A%7B%7D%2C%22source%22%3A%22new_parser%22%7D%2C%7B%22score%22%3A0%2C%22node_type%22%3A%22op%22%2C%22children%22%3A%5B%5D%2C%22opName%22%3A%22and%22%2C%22ci%22%3Afalse%2C%22opPropertiesMap%22%3A%7B%7D%2C%22opProperty%22%3A%22%22%2C%22uiText%22%3A%22%E6%B6%A8%E8%B7%8C%E5%B9%85%3E%3D2%25%E4%B8%94%E6%B6%A8%E8%B7%8C%E5%B9%85%3C%3D5%25%22%2C%22sonSize%22%3A2%2C%22opPropertyMap%22%3A%7B%7D%2C%22source%22%3A%22new_parser%22%7D%2C%7B%22dateText%22%3A%22%22%2C%22ci%22%3Afalse%2C%22indexName%22%3A%22%E6%B6%A8%E8%B7%8C%E5%B9%85%3A%E5%89%8D%E5%A4%8D%E6%9D%83%22%2C%22indexProperties%22%3A%5B%22nodate+1%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F+20260724%22%2C%22%28%3D0.02%22%5D%2C%22source%22%3A%22new_parser%22%2C%22type%22%3A%22index%22%2C%22indexPropertiesMap%22%3A%7B%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%3A%2220260724%22%2C%22%28%3D%22%3A%220.02%22%2C%22nodate%22%3A%221%22%7D%2C%22reportType%22%3A%22TRADE_DAILY%22%2C%22score%22%3A0%2C%22node_type%22%3A%22index%22%2C%22dateType%22%3A%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%2C%22valueType%22%3A%22_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%80%BC%28%25%29%22%2C%22sonSize%22%3A0%7D%2C%7B%22dateText%22%3A%22%22%2C%22ci%22%3Afalse%2C%22indexName%22%3A%22%E6%B6%A8%E8%B7%8C%E5%B9%85%3A%E5%89%8D%E5%A4%8D%E6%9D%83%22%2C%22indexProperties%22%3A%5B%22nodate+1%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F+20260724%22%2C%22%3C%3D0.05%22%5D%2C%22source%22%3A%22new_parser%22%2C%22type%22%3A%22index%22%2C%22indexPropertiesMap%22%3A%7B%22%3C%3D%22%3A%220.05%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%3A%2220260724%22%2C%22nodate%22%3A%221%22%7D%2C%22reportType%22%3A%22TRADE_DAILY%22%2C%22score%22%3A0%2C%22node_type%22%3A%22index%22%2C%22dateType%22%3A%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%2C%22valueType%22%3A%22_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%80%BC%28%25%29%22%2C%22sonSize%22%3A0%7D%2C%7B%22score%22%3A0%2C%22node_type%22%3A%22op%22%2C%22children%22%3A%5B%5D%2C%22opName%22%3A%22and%22%2C%22ci%22%3Afalse%2C%22opPropertiesMap%22%3A%7B%7D%2C%22opProperty%22%3A%22%22%2C%22sonSize%22%3A25%2C%22opPropertyMap%22%3A%7B%7D%2C%22source%22%3A%22new_parser%22%7D%2C%7B%22dateText%22%3A%22%22%2C%22ci%22%3Afalse%2C%22indexName%22%3A%22%E9%87%8F%E6%AF%94%22%2C%22indexProperties%22%3A%5B%22nodate+1%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F+20260724%22%2C%22%281%22%5D%2C%22source%22%3A%22new_parser%22%2C%22type%22%3A%22index%22%2C%22indexPropertiesMap%22%3A%7B%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%3A%2220260724%22%2C%22%28%22%3A%221%22%2C%22nodate%22%3A%221%22%7D%2C%22reportType%22%3A%22TRADE_DAILY%22%2C%22score%22%3A0%2C%22node_type%22%3A%22index%22%2C%22dateType%22%3A%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%2C%22uiText%22%3A%22%E9%87%8F%E6%AF%94%3E1%22%2C%22valueType%22%3A%22_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%80%BC%22%2C%22sonSize%22%3A0%7D%2C%7B%22score%22%3A0%2C%22node_type%22%3A%22op%22%2C%22children%22%3A%5B%5D%2C%22opName%22%3A%22and%22%2C%22ci%22%3Afalse%2C%22opPropertiesMap%22%3A%7B%7D%2C%22opProperty%22%3A%22%22%2C%22sonSize%22%3A23%2C%22opPropertyMap%22%3A%7B%7D%2C%22source%22%3A%22new_parser%22%7D%2C%7B%22score%22%3A0%2C%22node_type%22%3A%22op%22%2C%22children%22%3A%5B%5D%2C%22opName%22%3A%22and%22%2C%22ci%22%3Afalse%2C%22opPropertiesMap%22%3A%7B%7D%2C%22opProperty%22%3A%22%22%2C%22uiText%22%3A%22%E6%8D%A2%E6%89%8B%E7%8E%87%3E%3D3%25%E4%B8%94%E6%8D%A2%E6%89%8B%E7%8E%87%3C%3D15%25%22%2C%22sonSize%22%3A2%2C%22opPropertyMap%22%3A%7B%7D%2C%22source%22%3A%22new_parser%22%7D%2C%7B%22dateText%22%3A%22%22%2C%22ci%22%3Afalse%2C%22indexName%22%3A%22%E6%8D%A2%E6%89%8B%E7%8E%87%22%2C%22indexProperties%22%3A%5B%22nodate+1%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F+20260724%22%2C%22%28%3D0.03%22%5D%2C%22source%22%3A%22new_parser%22%2C%22type%22%3A%22index%22%2C%22indexPropertiesMap%22%3A%7B%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%3A%2220260724%22%2C%22%28%3D%22%3A%220.03%22%2C%22nodate%22%3A%221%22%7D%2C%22reportType%22%3A%22TRADE_DAILY%22%2C%22score%22%3A0%2C%22node_type%22%3A%22index%22%2C%22dateType%22%3A%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%2C%22valueType%22%3A%22_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%80%BC%28%25%29%22%2C%22sonSize%22%3A0%7D%2C%7B%22dateText%22%3A%22%22%2C%22ci%22%3Afalse%2C%22indexName%22%3A%22%E6%8D%A2%E6%89%8B%E7%8E%87%22%2C%22indexProperties%22%3A%5B%22nodate+1%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F+20260724%22%2C%22%3C%3D0.15%22%5D%2C%22source%22%3A%22new_parser%22%2C%22type%22%3A%22index%22%2C%22indexPropertiesMap%22%3A%7B%22%3C%3D%22%3A%220.15%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%3A%2220260724%22%2C%22nodate%22%3A%221%22%7D%2C%22reportType%22%3A%22TRADE_DAILY%22%2C%22score%22%3A0%2C%22node_type%22%3A%22index%22%2C%22dateType%22%3A%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%2C%22valueType%22%3A%22_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%80%BC%28%25%29%22%2C%22sonSize%22%3A0%7D%2C%7B%22score%22%3A0%2C%22node_type%22%3A%22op%22%2C%22children%22%3A%5B%5D%2C%22opName%22%3A%22and%22%2C%22ci%22%3Afalse%2C%22opPropertiesMap%22%3A%7B%7D%2C%22opProperty%22%3A%22%22%2C%22sonSize%22%3A19%2C%22opPropertyMap%22%3A%7B%7D%2C%22source%22%3A%22new_parser%22%7D%2C%7B%22score%22%3A0%2C%22node_type%22%3A%22op%22%2C%22children%22%3A%5B%5D%2C%22opName%22%3A%22and%22%2C%22ci%22%3Afalse%2C%22opPropertiesMap%22%3A%7B%7D%2C%22opProperty%22%3A%22%22%2C%22uiText%22%3A%22a%E8%82%A1%E5%B8%82%E5%80%BC%28%E4%B8%8D%E5%90%AB%E9%99%90%E5%94%AE%E8%82%A1%29%3E%3D30%E4%BA%BF%E5%85%83%E4%B8%94a%E8%82%A1%E5%B8%82%E5%80%BC%28%E4%B8%8D%E5%90%AB%E9%99%90%E5%94%AE%E8%82%A1%29%3C%3D150%E4%BA%BF%E5%85%83%22%2C%22sonSize%22%3A2%2C%22opPropertyMap%22%3A%7B%7D%2C%22source%22%3A%22new_parser%22%7D%2C%7B%22dateText%22%3A%22%22%2C%22ci%22%3Afalse%2C%22indexName%22%3A%22a%E8%82%A1%E5%B8%82%E5%80%BC%28%E4%B8%8D%E5%90%AB%E9%99%90%E5%94%AE%E8%82%A1%29%22%2C%22indexProperties%22%3A%5B%22nodate+1%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F+20260724%22%2C%22%28%3D3000000000%22%5D%2C%22source%22%3A%22new_parser%22%2C%22type%22%3A%22index%22%2C%22indexPropertiesMap%22%3A%7B%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%3A%2220260724%22%2C%22%28%3D%22%3A%223000000000%22%2C%22nodate%22%3A%221%22%7D%2C%22reportType%22%3A%22TRADE_DAILY%22%2C%22score%22%3A0%2C%22node_type%22%3A%22index%22%2C%22dateType%22%3A%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%2C%22valueType%22%3A%22_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%80%BC%28%E5%85%83%29%22%2C%22sonSize%22%3A0%7D%2C%7B%22dateText%22%3A%22%22%2C%22ci%22%3Afalse%2C%22indexName%22%3A%22a%E8%82%A1%E5%B8%82%E5%80%BC%28%E4%B8%8D%E5%90%AB%E9%99%90%E5%94%AE%E8%82%A1%29%22%2C%22indexProperties%22%3A%5B%22nodate+1%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F+20260724%22%2C%22%3C%3D15000000000%22%5D%2C%22source%22%3A%22new_parser%22%2C%22type%22%3A%22index%22%2C%22indexPropertiesMap%22%3A%7B%22%3C%3D%22%3A%2215000000000%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%3A%2220260724%22%2C%22nodate%22%3A%221%22%7D%2C%22reportType%22%3A%22TRADE_DAILY%22%2C%22score%22%3A0%2C%22node_type%22%3A%22index%22%2C%22dateType%22%3A%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%2C%22valueType%22%3A%22_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%80%BC%28%E5%85%83%29%22%2C%22sonSize%22%3A0%7D%2C%7B%22score%22%3A0%2C%22node_type%22%3A%22op%22%2C%22children%22%3A%5B%5D%2C%22opName%22%3A%22and%22%2C%22ci%22%3Afalse%2C%22opPropertiesMap%22%3A%7B%7D%2C%22opProperty%22%3A%22%22%2C%22sonSize%22%3A15%2C%22opPropertyMap%22%3A%7B%7D%2C%22source%22%3A%22new_parser%22%7D%2C%7B%22score%22%3A0%2C%22node_type%22%3A%22op%22%2C%22children%22%3A%5B%5D%2C%22opName%22%3A%22-%22%2C%22ci%22%3Afalse%2C%22opPropertiesMap%22%3A%7B%7D%2C%22opProperty%22%3A%22%280%22%2C%22uiText%22%3A%22%E8%A1%8C%E6%83%85%E6%94%B6%E7%9B%98%E4%BB%B7%3E5%E6%97%A5%E7%9A%84%E5%9D%87%E7%BA%BF%22%2C%22sonSize%22%3A2%2C%22opPropertyMap%22%3A%7B%7D%2C%22source%22%3A%22new_parser%22%7D%2C%7B%22dateText%22%3A%22%22%2C%22ci%22%3Afalse%2C%22indexName%22%3A%22%E8%A1%8C%E6%83%85%E6%94%B6%E7%9B%98%E4%BB%B7%22%2C%22indexProperties%22%3A%5B%22nodate+1%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F+20260724%22%5D%2C%22source%22%3A%22new_parser%22%2C%22type%22%3A%22tech%22%2C%22indexPropertiesMap%22%3A%7B%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%3A%2220260724%22%2C%22nodate%22%3A%221%22%7D%2C%22reportType%22%3A%22TRADE_DAILY%22%2C%22score%22%3A0%2C%22node_type%22%3A%22index%22%2C%22dateType%22%3A%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%2C%22valueType%22%3A%22_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%80%BC%28%E5%85%83%29%22%2C%22sonSize%22%3A0%7D%2C%7B%22dateText%22%3A%22%22%2C%22ci%22%3Afalse%2C%22indexName%22%3A%22%E5%9D%87%E7%BA%BF%22%2C%22indexProperties%22%3A%5B%22nodate+1%22%2C%22n%E6%97%A5+5%E6%97%A5%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F+20260724%22%5D%2C%22source%22%3A%22new_parser%22%2C%22type%22%3A%22tech%22%2C%22indexPropertiesMap%22%3A%7B%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%3A%2220260724%22%2C%22n%E6%97%A5%22%3A%225%E6%97%A5%22%2C%22nodate%22%3A%221%22%7D%2C%22reportType%22%3A%22TRADE_DAILY%22%2C%22score%22%3A0%2C%22node_type%22%3A%22index%22%2C%22dateType%22%3A%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%2C%22valueType%22%3A%22_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%80%BC%22%2C%22sonSize%22%3A0%7D%2C%7B%22score%22%3A0%2C%22node_type%22%3A%22op%22%2C%22children%22%3A%5B%5D%2C%22opName%22%3A%22and%22%2C%22ci%22%3Afalse%2C%22opPropertiesMap%22%3A%7B%7D%2C%22opProperty%22%3A%22%22%2C%22sonSize%22%3A11%2C%22opPropertyMap%22%3A%7B%7D%2C%22source%22%3A%22new_parser%22%7D%2C%7B%22score%22%3A0%2C%22node_type%22%3A%22op%22%2C%22children%22%3A%5B%5D%2C%22opName%22%3A%22-%22%2C%22ci%22%3Afalse%2C%22opPropertiesMap%22%3A%7B%7D%2C%22opProperty%22%3A%22%280%22%2C%22uiText%22%3A%22%E8%A1%8C%E6%83%85%E6%94%B6%E7%9B%98%E4%BB%B7%3E10%E6%97%A5%E7%9A%84%E5%9D%87%E7%BA%BF%22%2C%22sonSize%22%3A2%2C%22opPropertyMap%22%3A%7B%7D%2C%22source%22%3A%22new_parser%22%7D%2C%7B%22dateText%22%3A%22%22%2C%22ci%22%3Afalse%2C%22indexName%22%3A%22%E8%A1%8C%E6%83%85%E6%94%B6%E7%9B%98%E4%BB%B7%22%2C%22indexProperties%22%3A%5B%22nodate+1%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F+20260724%22%5D%2C%22source%22%3A%22new_parser%22%2C%22type%22%3A%22tech%22%2C%22indexPropertiesMap%22%3A%7B%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%3A%2220260724%22%2C%22nodate%22%3A%221%22%7D%2C%22reportType%22%3A%22TRADE_DAILY%22%2C%22score%22%3A0%2C%22node_type%22%3A%22index%22%2C%22dateType%22%3A%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%2C%22valueType%22%3A%22_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%80%BC%28%E5%85%83%29%22%2C%22sonSize%22%3A0%7D%2C%7B%22dateText%22%3A%22%22%2C%22ci%22%3Afalse%2C%22indexName%22%3A%22%E5%9D%87%E7%BA%BF%22%2C%22indexProperties%22%3A%5B%22nodate+1%22%2C%22n%E6%97%A5+10%E6%97%A5%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F+20260724%22%5D%2C%22source%22%3A%22new_parser%22%2C%22type%22%3A%22tech%22%2C%22indexPropertiesMap%22%3A%7B%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%3A%2220260724%22%2C%22n%E6%97%A5%22%3A%2210%E6%97%A5%22%2C%22nodate%22%3A%221%22%7D%2C%22reportType%22%3A%22TRADE_DAILY%22%2C%22score%22%3A0%2C%22node_type%22%3A%22index%22%2C%22dateType%22%3A%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%2C%22valueType%22%3A%22_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%80%BC%22%2C%22sonSize%22%3A0%7D%2C%7B%22score%22%3A0%2C%22node_type%22%3A%22op%22%2C%22children%22%3A%5B%5D%2C%22opName%22%3A%22and%22%2C%22ci%22%3Afalse%2C%22opPropertiesMap%22%3A%7B%7D%2C%22opProperty%22%3A%22%22%2C%22sonSize%22%3A7%2C%22opPropertyMap%22%3A%7B%7D%2C%22source%22%3A%22new_parser%22%7D%2C%7B%22dateText%22%3A%22%22%2C%22ci%22%3Afalse%2C%22indexName%22%3A%22%E5%9D%87%E7%BA%BF%E4%B8%8A%E7%A7%BB%22%2C%22indexProperties%22%3A%5B%22nodate+1%22%2C%22n%E6%97%A5+5%E6%97%A5%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F+20260724%22%2C%22%E5%8C%85%E5%90%AB1%22%5D%2C%22source%22%3A%22new_parser%22%2C%22type%22%3A%22tech%22%2C%22indexPropertiesMap%22%3A%7B%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%3A%2220260724%22%2C%22n%E6%97%A5%22%3A%225%E6%97%A5%22%2C%22%E5%8C%85%E5%90%AB%22%3A%221%22%2C%22nodate%22%3A%221%22%7D%2C%22reportType%22%3A%22TRADE_DAILY%22%2C%22score%22%3A0%2C%22node_type%22%3A%22index%22%2C%22dateType%22%3A%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%2C%22uiText%22%3A%222026%E5%B9%B407%E6%9C%8824%E6%97%A55%E6%97%A5%E7%BA%BF%E5%9D%87%E7%BA%BF%E4%B8%8A%E7%A7%BB%22%2C%22valueType%22%3A%22_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%80%BC%22%2C%22sonSize%22%3A0%7D%2C%7B%22score%22%3A0%2C%22node_type%22%3A%22op%22%2C%22children%22%3A%5B%5D%2C%22opName%22%3A%22and%22%2C%22ci%22%3Afalse%2C%22opPropertiesMap%22%3A%7B%7D%2C%22opProperty%22%3A%22%22%2C%22sonSize%22%3A5%2C%22opPropertyMap%22%3A%7B%7D%2C%22source%22%3A%22new_parser%22%7D%2C%7B%22dateText%22%3A%22%22%2C%22ci%22%3Afalse%2C%22indexName%22%3A%22%E5%9D%87%E7%BA%BF%E4%B8%8A%E7%A7%BB%22%2C%22indexProperties%22%3A%5B%22nodate+1%22%2C%22n%E6%97%A5+10%E6%97%A5%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F+20260724%22%2C%22%E5%8C%85%E5%90%AB1%22%5D%2C%22source%22%3A%22new_parser%22%2C%22type%22%3A%22tech%22%2C%22indexPropertiesMap%22%3A%7B%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%3A%2220260724%22%2C%22n%E6%97%A5%22%3A%2210%E6%97%A5%22%2C%22%E5%8C%85%E5%90%AB%22%3A%221%22%2C%22nodate%22%3A%221%22%7D%2C%22reportType%22%3A%22TRADE_DAILY%22%2C%22score%22%3A0%2C%22node_type%22%3A%22index%22%2C%22dateType%22%3A%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%2C%22uiText%22%3A%222026%E5%B9%B407%E6%9C%8824%E6%97%A510%E6%97%A5%E7%BA%BF%E5%9D%87%E7%BA%BF%E4%B8%8A%E7%A7%BB%22%2C%22valueType%22%3A%22_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%80%BC%22%2C%22sonSize%22%3A0%7D%2C%7B%22score%22%3A0%2C%22node_type%22%3A%22op%22%2C%22children%22%3A%5B%5D%2C%22opName%22%3A%22and%22%2C%22ci%22%3Afalse%2C%22opPropertiesMap%22%3A%7B%7D%2C%22opProperty%22%3A%22%22%2C%22sonSize%22%3A3%2C%22opPropertyMap%22%3A%7B%7D%2C%22source%22%3A%22new_parser%22%7D%2C%7B%22dateText%22%3A%22%22%2C%22ci%22%3Afalse%2C%22indexName%22%3A%22%E5%9D%87%E4%BB%B7%E7%BA%BF%22%2C%22indexProperties%22%3A%5B%22nodate+1%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F+20260724%22%5D%2C%22source%22%3A%22new_parser%22%2C%22type%22%3A%22tech%22%2C%22indexPropertiesMap%22%3A%7B%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%3A%2220260724%22%2C%22nodate%22%3A%221%22%7D%2C%22reportType%22%3A%22TRADE_DAILY%22%2C%22score%22%3A0%2C%22node_type%22%3A%22index%22%2C%22dateType%22%3A%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%2C%22uiText%22%3A%22%E5%9D%87%E4%BB%B7%E7%BA%BF%22%2C%22valueType%22%3A%22_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%80%BC%22%2C%22sonSize%22%3A0%7D%2C%7B%22score%22%3A0%2C%22node_type%22%3A%22op%22%2C%22children%22%3A%5B%5D%2C%22opName%22%3A%22%E5%88%9B%E6%96%B0%E9%AB%98%22%2C%22ci%22%3Afalse%2C%22opPropertiesMap%22%3A%7B%7D%2C%22opProperty%22%3A%22%5B%E8%B5%B7%E5%A7%8B%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F+20260724%2C%E6%88%AA%E6%AD%A2%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F+20260724%5D%22%2C%22uiText%22%3A%22%E6%9C%80%E9%AB%98%E4%BB%B7%3A%E5%90%8E%E5%A4%8D%E6%9D%83%E5%88%9B%E5%BD%93%E6%97%A5%E6%96%B0%E9%AB%98%22%2C%22sonSize%22%3A1%2C%22opPropertyMap%22%3A%7B%7D%2C%22source%22%3A%22new_parser%22%7D%2C%7B%22dateText%22%3A%22%22%2C%22ci%22%3Afalse%2C%22indexName%22%3A%22%E6%9C%80%E9%AB%98%E4%BB%B7%3A%E5%90%8E%E5%A4%8D%E6%9D%83%22%2C%22indexProperties%22%3A%5B%22nodate+1%22%2C%22%E5%91%A8%E6%9C%9F%E9%95%BF%E5%BA%A6+1%22%2C%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F+20260724%22%5D%2C%22source%22%3A%22new_parser%22%2C%22type%22%3A%22index%22%2C%22indexPropertiesMap%22%3A%7B%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%3A%2220260724%22%2C%22%E5%91%A8%E6%9C%9F%E9%95%BF%E5%BA%A6%22%3A%221%22%2C%22nodate%22%3A%221%22%7D%2C%22reportType%22%3A%22TRADE_DAILY%22%2C%22score%22%3A0%2C%22node_type%22%3A%22index%22%2C%22dateType%22%3A%22%E4%BA%A4%E6%98%93%E6%97%A5%E6%9C%9F%22%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%2C%22valueType%22%3A%22_%E6%B5%AE%E7%82%B9%E5%9E%8B%E6%95%B0%E5%80%BC%28%E5%85%83%29%22%2C%22sonSize%22%3A0%7D%5D&urp=%7B%22perpage%22%3A100%2C%22business%22%3A1%2C%22company%22%3A1%2C%22page%22%3A1%2C%22scene%22%3A1%7D&parse_res=%7B%22date_range%22%3A%5B%2220260724%22%2C%2220260724%22%5D%2C%22compares_ofindex%22%3A%7B%22%E9%87%8F%E6%AF%94%22%3A%5B%5B%22%3E%22%2C%221%22%5D%5D%7D%2C%22indexes%22%3A%5B%22%E6%B6%A8%E8%B7%8C%E5%B9%85%3A%E5%89%8D%E5%A4%8D%E6%9D%83%22%2C%22%E9%87%8F%E6%AF%94%22%2C%22%E6%8D%A2%E6%89%8B%E7%8E%87%22%2C%22a%E8%82%A1%E5%B8%82%E5%80%BC%28%E4%B8%8D%E5%90%AB%E9%99%90%E5%94%AE%E8%82%A1%29%22%2C%22%E8%A1%8C%E6%83%85%E6%94%B6%E7%9B%98%E4%BB%B7%22%2C%22%E5%9D%87%E7%BA%BF%22%2C%22%E5%9D%87%E7%BA%BF%E4%B8%8A%E7%A7%BB%22%2C%22%E5%9D%87%E4%BB%B7%E7%BA%BF%22%2C%22%E6%9C%80%E9%AB%98%E4%BB%B7%3A%E5%90%8E%E5%A4%8D%E6%9D%83%22%5D%2C%22domain%22%3A%22abs_%E8%82%A1%E7%A5%A8%E9%A2%86%E5%9F%9F%22%7D&scene_val=2&w=%E6%B6%A8%E5%B9%852%25-5%25+%E9%87%8F%E6%AF%94%E5%A4%A7%E4%BA%8E1+%E6%8D%A2%E6%89%8B%E7%8E%873%25-15%25+%E6%B5%81%E9%80%9A%E5%B8%82%E5%80%BC30%E4%BA%BF-150%E4%BA%BF+%E8%82%A1%E4%BB%B7%E5%9C%A85%E6%97%A5%E7%BA%BF%E4%B8%8A+%E8%82%A1%E4%BB%B7%E5%9C%A810%E6%97%A5%E7%BA%BF%E4%B8%8A+5%E6%97%A5%E5%9D%87%E7%BA%BF%E5%90%91%E4%B8%8A+10%E6%97%A5%E5%9D%87%E7%BA%BF%E5%90%91%E4%B8%8A+%E5%88%86%E6%97%B6%E5%9D%87%E4%BB%B7%E7%BA%BF%E4%B8%8A+%E5%88%9B%E5%BD%93%E6%97%A5%E6%96%B0%E9%AB%98&logid=b7590df654d8ee42ce84ba7b098abffd&remove_switch=1&tag=iwencai_stock&business_cat=8&question_labels=%5B%22%E6%B6%A8%E5%B9%85%22%2C%22%E9%87%8F%E6%AF%94%22%2C%22%E6%8D%A2%E6%89%8B%E7%8E%87%22%2C%22%E6%B5%81%E9%80%9A%E5%B8%82%E5%80%BC%22%2C%22%E8%82%A1%E4%BB%B7%22%2C%225%E6%97%A5%E7%BA%BF%22%2C%22%E6%97%A5%E7%BA%BF%22%2C%22%E8%82%A1%E4%BB%B7%22%2C%2210%E6%97%A5%E7%BA%BF%22%2C%22%E6%97%A5%E7%BA%BF%22%2C%22%E6%97%A5%E7%BA%BF%22%2C%225%E6%97%A5%E5%9D%87%E7%BA%BF%22%2C%2210%E6%97%A5%E5%9D%87%E7%BA%BF%22%2C%22%E5%88%86%E6%97%B6%22%2C%22%E5%9D%87%E4%BB%B7%E7%BA%BF%22%2C%22%E6%96%B0%E9%AB%98%22%5D&entity=%5B%5D",
+                "global": {
+                  "requestTime": "2026-07-26 09:45:48",
+                  "appModule": "Urp",
+                  "condition": "[{\"score\":0,\"node_type\":\"op\",\"chunkedResult\":\"涨幅2%-5% _&_量比大于1 _&_换手率3%-15% _&_流通市值30亿-150亿 _&_股价在5日线上 _&_股价在10日线上 _&_5日均线向上 _&_10日均线向上 _&_分时均价线上 _&_创当日新高\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"sonSize\":29,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"uiText\":\"涨跌幅>=2%且涨跌幅<=5%\",\"sonSize\":2,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"涨跌幅:前复权\",\"indexProperties\":[\"nodate 1\",\"交易日期 20260724\",\"(=0.02\"],\"source\":\"new_parser\",\"type\":\"index\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"(=\":\"0.02\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值(%)\",\"sonSize\":0},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"涨跌幅:前复权\",\"indexProperties\":[\"nodate 1\",\"交易日期 20260724\",\"<=0.05\"],\"source\":\"new_parser\",\"type\":\"index\",\"indexPropertiesMap\":{\"<=\":\"0.05\",\"交易日期\":\"20260724\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值(%)\",\"sonSize\":0},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"sonSize\":25,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"量比\",\"indexProperties\":[\"nodate 1\",\"交易日期 20260724\",\"(1\"],\"source\":\"new_parser\",\"type\":\"index\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"(\":\"1\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"uiText\":\"量比>1\",\"valueType\":\"_浮点型数值\",\"sonSize\":0},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"sonSize\":23,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"uiText\":\"换手率>=3%且换手率<=15%\",\"sonSize\":2,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"换手率\",\"indexProperties\":[\"nodate 1\",\"交易日期 20260724\",\"(=0.03\"],\"source\":\"new_parser\",\"type\":\"index\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"(=\":\"0.03\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值(%)\",\"sonSize\":0},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"换手率\",\"indexProperties\":[\"nodate 1\",\"交易日期 20260724\",\"<=0.15\"],\"source\":\"new_parser\",\"type\":\"index\",\"indexPropertiesMap\":{\"<=\":\"0.15\",\"交易日期\":\"20260724\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值(%)\",\"sonSize\":0},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"sonSize\":19,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"uiText\":\"a股市值(不含限售股)>=30亿元且a股市值(不含限售股)<=150亿元\",\"sonSize\":2,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"a股市值(不含限售股)\",\"indexProperties\":[\"nodate 1\",\"交易日期 20260724\",\"(=3000000000\"],\"source\":\"new_parser\",\"type\":\"index\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"(=\":\"3000000000\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值(元)\",\"sonSize\":0},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"a股市值(不含限售股)\",\"indexProperties\":[\"nodate 1\",\"交易日期 20260724\",\"<=15000000000\"],\"source\":\"new_parser\",\"type\":\"index\",\"indexPropertiesMap\":{\"<=\":\"15000000000\",\"交易日期\":\"20260724\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值(元)\",\"sonSize\":0},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"sonSize\":15,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"-\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"(0\",\"uiText\":\"行情收盘价>5日的均线\",\"sonSize\":2,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"行情收盘价\",\"indexProperties\":[\"nodate 1\",\"交易日期 20260724\"],\"source\":\"new_parser\",\"type\":\"tech\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值(元)\",\"sonSize\":0},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"均线\",\"indexProperties\":[\"nodate 1\",\"n日 5日\",\"交易日期 20260724\"],\"source\":\"new_parser\",\"type\":\"tech\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"n日\":\"5日\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值\",\"sonSize\":0},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"sonSize\":11,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"-\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"(0\",\"uiText\":\"行情收盘价>10日的均线\",\"sonSize\":2,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"行情收盘价\",\"indexProperties\":[\"nodate 1\",\"交易日期 20260724\"],\"source\":\"new_parser\",\"type\":\"tech\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值(元)\",\"sonSize\":0},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"均线\",\"indexProperties\":[\"nodate 1\",\"n日 10日\",\"交易日期 20260724\"],\"source\":\"new_parser\",\"type\":\"tech\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"n日\":\"10日\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值\",\"sonSize\":0},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"sonSize\":7,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"均线上移\",\"indexProperties\":[\"nodate 1\",\"n日 5日\",\"交易日期 20260724\",\"包含1\"],\"source\":\"new_parser\",\"type\":\"tech\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"n日\":\"5日\",\"包含\":\"1\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"uiText\":\"2026年07月24日5日线均线上移\",\"valueType\":\"_浮点型数值\",\"sonSize\":0},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"sonSize\":5,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"均线上移\",\"indexProperties\":[\"nodate 1\",\"n日 10日\",\"交易日期 20260724\",\"包含1\"],\"source\":\"new_parser\",\"type\":\"tech\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"n日\":\"10日\",\"包含\":\"1\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"uiText\":\"2026年07月24日10日线均线上移\",\"valueType\":\"_浮点型数值\",\"sonSize\":0},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"and\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"\",\"sonSize\":3,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"均价线\",\"indexProperties\":[\"nodate 1\",\"交易日期 20260724\"],\"source\":\"new_parser\",\"type\":\"tech\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"uiText\":\"均价线\",\"valueType\":\"_浮点型数值\",\"sonSize\":0},{\"score\":0,\"node_type\":\"op\",\"children\":[],\"opName\":\"创新高\",\"ci\":false,\"opPropertiesMap\":{},\"opProperty\":\"[起始交易日期 20260724,截止交易日期 20260724]\",\"uiText\":\"最高价:后复权创当日新高\",\"sonSize\":1,\"opPropertyMap\":{},\"source\":\"new_parser\"},{\"dateText\":\"\",\"ci\":false,\"indexName\":\"最高价:后复权\",\"indexProperties\":[\"nodate 1\",\"周期长度 1\",\"交易日期 20260724\"],\"source\":\"new_parser\",\"type\":\"index\",\"indexPropertiesMap\":{\"交易日期\":\"20260724\",\"周期长度\":\"1\",\"nodate\":\"1\"},\"reportType\":\"TRADE_DAILY\",\"score\":0,\"node_type\":\"index\",\"dateType\":\"交易日期\",\"domain\":\"abs_股票领域\",\"valueType\":\"_浮点型数值(元)\",\"sonSize\":0}]",
+                  "appVersion": "V7",
+                  "queryType": "stock"
+                },
+                "page": {
+                  "layout": {
+                    "layout_data": "[{\"uuid\":\"990d4e73b94147348243fe59e2289a46\",\"showType\":\"xuangu_tableV1\",\"children\":[]}]",
+                    "layout_mode": "waterfall"
+                  },
+                  "cache_time": 0,
+                  "ori_id": 1582617255,
+                  "more": {
+                    "q": "涨幅2%-5% 量比大于1 换手率3%-15% 流通市值30亿-150亿 股价在5日线上 股价在10日线上 5日均线向上 10日均线向上 分时均价线上 创当日新高",
+                    "codes": [],
+                    "isview": false,
+                    "display_board": false,
+                    "query_type": "stock"
+                  },
+                  "tag": "iwencai_stock",
+                  "ori_scene": 0,
+                  "uuids": [
+                    24087
+                  ]
+                },
+                "id": 1144056528
+              }
+            }
+          ],
+          "sugs": [],
+          "idx": [
+            {
+              "pos": [
+                0
+              ],
+              "type": "txt"
+            }
+          ],
+          "lenovo": []
+        }
+      ],
+      "question": "涨幅2%-5% 量比大于1 换手率3%-15% 流通市值30亿-150亿 股价在5日线上 股价在10日线上 5日均线向上 10日均线向上 分时均价线上 创当日新高",
+      "evaluateScore": 0,
+      "user_id": "Ths_iwencai_Xuangu_7y3bopeyrdbi8ouk15jzjcd48igcc5ms",
+      "rewriteQuestion": "涨幅2%-5% 量比大于1 换手率3%-15% 流通市值30亿-150亿 股价在5日线上 股价在10日线上 5日均线向上 10日均线向上 分时均价线上 创当日新高",
+      "status_msg": "success",
+      "logid": "b7590df654d8ee42ce84ba7b098abffd",
+      "logs": [],
+      "question_id": "20260726094546397872053",
+      "version": "2.0"
+    },
+    "status_msg": "ok",
+    "logid": "b7590df654d8ee42ce84ba7b098abffd"
+  }
+}
